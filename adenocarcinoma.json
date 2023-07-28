@@ -1,0 +1,352 @@
+{
+    "1": {
+        "workup": {
+            "imaging": [
+                "Abdominal/pelvic CT or MRI",
+                "Chest CT",
+                "Esophagogastroduodenoscopy (EGD) with endoscopic ultrasound (EUS)"
+            ],
+            "blood chemistry": [
+                "Complete blood count", 
+                "carbohydrate antigen 19-9 (CA 19-9)",
+                "Carcinoembryonic antigen (CEA)"
+            ],
+            "pathology": ["Biopsy with pathology review"],
+            "other": ["Mismatch repair (MMR) or microsatellite d instability (MSI) testing"]
+        }, 
+        "treatment": {
+            "surgical": ["Surgical resection with en bloc removal of regional lymph nodes"],
+            "adjuvant": ["Observation"]
+        }, 
+        "followup": [
+            "History and physical examination every 3–6 mo for 2 y, then every 6 mo for a total of 5y",
+            "CEA and/or CA 19-9 every 3–6 mo for 2 y then every 6 mo for a total of 5 y",
+            "Chest/abdominal/pelvic CT every 6–12 mo for 2 y, then every 12 mo y 3–5",
+            "PET/CT is not indicated",
+            "Routine capsule endoscopy is not indicated"
+        ]
+    },
+    "2": {
+        "workup": {
+            "imaging": [
+                "Abdominal/pelvic CT or MRI",
+                "Chest CT",
+                "Esophagogastroduodenoscopy (EGD) with endoscopic ultrasound (EUS)"                
+            ],
+            "blood chemistry": [
+                "Complete blood count", 
+                "carbohydrate antigen 19-9 (CA 19-9)",
+                "Carcinoembryonic antigen (CEA)"                
+            ],
+            "pathology": ["Biopsy with pathology review"],
+            "other": ["Mismatch repair (MMR) or microsatellite d instability (MSI) testing"]
+        }, 
+        "treatment": {
+            "surgical": ["Surgical resection with en bloc removal of regional lymph nodes"],
+            "adjuvant": [
+                "Observation", 
+                "Consider 5-FU/LV or capecitabine"
+            ]
+        }, 
+        "followup": [
+            "History and physical examination every 3–6 mo for 2 y, then every 6 mo for a total of 5y",
+            "CEA and/or CA 19-9 every 3–6 mo for 2 y then every 6 mo for a total of 5 y",
+            "Chest/abdominal/pelvic CT every 6–12 mo for 2 y, then every 12 mo y 3–5",
+            "PET/CT is not indicated",
+            "Routine capsule endoscopy is not indicated"            
+        ]
+    },
+    "3": {
+        "workup": {
+            "imaging": [
+                "Abdominal/pelvic CT or MRI",
+                "Chest CT",
+                "Esophagogastroduodenoscopy (EGD) with endoscopic ultrasound (EUS)"                
+            ],
+            "blood chemistry": [
+                "Complete blood count", 
+                "carbohydrate antigen 19-9 (CA 19-9)",
+                "Carcinoembryonic antigen (CEA)"                
+            ],
+            "pathology": ["Biopsy with pathology review Biopsy with pathology review"],
+            "other": ["Mismatch repair (MMR) or microsatellite d instability (MSI) testing"]
+        }, 
+        "treatment": {
+            "surgical": ["Surgical resection with en bloc removal of regional lymph nodes"],
+            "adjuvant": [
+                "Observation", 
+                "FOLFOX or CAPEOX (3–6 months) or 5-FU/LV or capecitabine (6 months)"                
+            ]
+        }, 
+        "followup": [
+            "History and physical examination every 3–6 mo for 2 y, then every 6 mo for a total of 5y",
+            "CEA and/or CA 19-9 every 3–6 mo for 2 y then every 6 mo for a total of 5 y",
+            "Chest/abdominal/pelvic CT every 6–12 mo for 2 y, then every 12 mo y 3–5",
+            "PET/CT is not indicated",
+            "Routine capsule endoscopy is not indicated"
+        ]
+    },
+    "4": {
+        "workup": {
+            "imaging": [
+                "Abdominal/pelvic CT or MRI",
+                "Chest CT",
+                "Esophagogastroduodenoscopy (EGD) with endoscopic ultrasound (EUS)"                
+            ],
+            "blood chemistry": [
+                "Complete blood count", 
+                "carbohydrate antigen 19-9 (CA 19-9)",
+                "Carcinoembryonic antigen (CEA)"                
+            ],
+            "pathology": ["Biopsy with pathology review "],
+            "other": ["Mismatch repair (MMR) or microsatellite d instability (MSI) testing"]
+        }, 
+        "treatment": {
+            "surgical": ["Surgical resection with en bloc removal of regional lymph nodes"],
+            "adjuvant": ["FOLFOX or CAPEOX (3–6 months) or 5-FU/LV or capecitabine (6 months)"]
+        }, 
+        "followup": [
+            "History and physical examination every 3–6 mo for 2 y, then every 6 mo for a total of 5y",
+            "CEA and/or CA 19-9 every 3–6 mo for 2 y then every 6 mo for a total of 5 y",
+            "Chest/abdominal/pelvic CT every 6–12 mo for 2 y, then every 12 mo y 3–5",
+            "PET/CT is not indicated",
+            "Routine capsule endoscopy is not indicated"
+        ]
+    },
+    "5": {
+        "workup": {
+            "imaging": [
+                "Abdominal/pelvic CT or MRI",
+                "Chest CT",
+                "Esophagogastroduodenoscopy (EGD) with endoscopic ultrasound (EUS)"                
+            ],
+            "blood chemistry": [
+                "Complete blood count", 
+                "carbohydrate antigen 19-9 (CA 19-9)",
+                "Carcinoembryonic antigen (CEA)"                
+            ],
+            "pathology": ["Biopsy with pathology review"],
+            "other": ["Mismatch repair (MMR) or microsatellite d instability (MSI) testing"]
+        }, 
+        "treatment": {
+            "surgical": [
+                "FOLFOX or CAPEOX or 5-FU/LV or capecitabine or FOLFIRINOX",
+                "Chemo/radiation therapy (chemo/RT)f,g with capecitabine or infusional 5-FU"
+            ],
+            "adjuvant": [
+                "Palliative diversion or bypass (if obstructed)", 
+                "Reevaluate for conversion to resectable disease" 
+            ]
+        }, 
+        "followup": [
+            "History and physical examination every 3–6 mo for 2 y, then every 6 mo for a total of 5y",
+            "CEA and/or CA 19-9 every 3–6 mo for 2 y then every 6 mo for a total of 5 y",
+            "Chest/abdominal/pelvic CT every 6–12 mo for 2 y, then every 12 mo y 3–5",
+            "PET/CT is not indicated",
+            "Routine capsule endoscopy is not indicated"
+        ]
+    },
+    "6": {
+        "workup": {
+            "imaging": [
+                "Abdominal/pelvic CT or MRI",
+                "Chest CT",
+                "Esophagogastroduodenoscopy (EGD) with endoscopic ultrasound (EUS)"                
+            ],
+            "blood chemistry": [
+                "Complete blood count", 
+                "carbohydrate antigen 19-9 (CA 19-9)",
+                "Carcinoembryonic antigen (CEA)"                
+            ],
+            "pathology": ["Biopsy with pathology review"],
+            "other": ["Mismatch repair (MMR) or microsatellite d instability (MSI) testing"]
+        }, 
+        "treatment": {
+            "surgical": [
+                "Surgical resection with en bloc removal of regional lymph nodes"
+            ],
+            "adjuvant": [
+                "Observation"
+            ]
+        }, 
+        "followup": [
+            "History and physical examination every 3–6 mo for 2 y, then every 6 mo for a total of 5y",
+            "CEA and/or CA 19-9 every 3–6 mo for 2 y then every 6 mo for a total of 5 y",
+            "Chest/abdominal/pelvic CT every 6–12 mo for 2 y, then every 12 mo y 3–5",
+            "PET/CT is not indicated",
+            "Routine capsule endoscopy is not indicated"
+        ]
+    },
+    "7": {
+        "workup": {
+            "imaging": [
+                "Abdominal/pelvic CT or MRI",
+                "Chest CT",
+                "Esophagogastroduodenoscopy (EGD) with endoscopic ultrasound (EUS)"                
+            ],
+            "blood chemistry": [
+                "Complete blood count", 
+                "carbohydrate antigen 19-9 (CA 19-9)",
+                "Carcinoembryonic antigen (CEA)"
+            ],
+            "pathology": ["Biopsy with pathology review"],
+            "other": ["Mismatch repair (MMR) or microsatellite d instability (MSI) testing"]
+        }, 
+        "treatment": {
+            "surgical": [
+                "Surgical resection with en bloc removal of regional lymph nodes"
+            ],
+            "adjuvant": [
+                "Observation", 
+                "Consider 5-FU/LV or capecitabine"               
+            ]
+        }, 
+        "followup": [
+            "History and physical examination every 3–6 mo for 2 y, then every 6 mo for a total of 5y",
+            "CEA and/or CA 19-9 every 3–6 mo for 2 y then every 6 mo for a total of 5 y",
+            "Chest/abdominal/pelvic CT every 6–12 mo for 2 y, then every 12 mo y 3–5",
+            "PET/CT is not indicated",
+            "Routine capsule endoscopy is not indicated"            
+        ]
+    },
+    "8": {
+        "workup": {
+            "imaging": [
+                "Abdominal/pelvic CT or MRI",
+                "Chest CT",
+                "Esophagogastroduodenoscopy (EGD) with endoscopic ultrasound (EUS)"                
+            ],
+            "blood chemistry": [
+                "Complete blood count", 
+                "carbohydrate antigen 19-9 (CA 19-9)",
+                "Carcinoembryonic antigen (CEA)"                
+            ],
+            "pathology": ["Biopsy with pathology review"],
+            "other": ["Mismatch repair (MMR) or microsatellite d instability (MSI) testing"]
+        }, 
+        "treatment": {
+            "surgical": [
+                "Surgical resection with en bloc removal of regional lymph nodes"
+            ],
+            "adjuvant": [
+                "Observation", 
+                "FOLFOX or CAPEOX (3–6 months) or 5-FU/LV or capecitabine (6 months)"                
+            ]
+        }, 
+        "followup": [
+            "History and physical examination every 3–6 mo for 2 y, then every 6 mo for a total of 5y",
+            "CEA and/or CA 19-9 every 3–6 mo for 2 y then every 6 mo for a total of 5 y",
+            "Chest/abdominal/pelvic CT every 6–12 mo for 2 y, then every 12 mo y 3–5",
+            "PET/CT is not indicated",
+            "Routine capsule endoscopy is not indicated"            
+        ]
+    },
+    "9": {
+        "workup": {
+            "imaging": [
+                "Abdominal/pelvic CT or MRI",
+                "Chest CT",
+                "Esophagogastroduodenoscopy (EGD) with endoscopic ultrasound (EUS)"                
+            ],
+            "blood chemistry": [
+                "Complete blood count", 
+                "carbohydrate antigen 19-9 (CA 19-9)",
+                "Carcinoembryonic antigen (CEA)"                
+            ],
+            "pathology": ["Biopsy with pathology review"],
+            "other": ["Mismatch repair (MMR) or microsatellite d instability (MSI) testing"]
+        }, 
+        "treatment": {
+            "surgical": [
+                "Surgical resection with en bloc removal of regional lymph nodes"
+            ],
+            "adjuvant": [
+                "FOLFOX or CAPEOX (3–6 months) or 5-FU/LV or capecitabine (6 months)"
+            ]
+        }, 
+        "followup": [
+            "History and physical examination every 3–6 mo for 2 y, then every 6 mo for a total of 5y",
+            "CEA and/or CA 19-9 every 3–6 mo for 2 y then every 6 mo for a total of 5 y",
+            "Chest/abdominal/pelvic CT every 6–12 mo for 2 y, then every 12 mo y 3–5",
+            "PET/CT is not indicated",
+            "Routine capsule endoscopy is not indicated"            
+        ]
+    },
+    "10": {
+        "workup": {
+            "imaging": [
+                "Abdominal/pelvic CT or MRI",
+                "Chest CT",
+                "Esophagogastroduodenoscopy (EGD) with endoscopic ultrasound (EUS)"               
+            ],
+            "blood chemistry": [
+                "Complete blood count", 
+                "carbohydrate antigen 19-9 (CA 19-9)",
+                "Carcinoembryonic antigen (CEA)"
+            ],
+            "pathology": ["Biopsy with pathology review"],
+            "other": ["Mismatch repair (MMR) or microsatellite d instability (MSI) testing"]
+        }, 
+        "treatment": {
+            "surgical": [
+                "FOLFOX or CAPEOX or 5-FU/LV or capecitabine or FOLFIRINOX",
+                "Chemo/radiation therapy (chemo/RT)f,g with capecitabine or infusional 5-FU"                
+            ],
+            "other": [
+                "Palliative diversion or bypass (if obstructed)", 
+                "Reevaluate for conversion to resectable disease" 
+            ]
+        }, 
+        "followup": [
+            "History and physical examination every 3–6 mo for 2 y, then every 6 mo for a total of 5y",
+            "CEA and/or CA 19-9 every 3–6 mo for 2 y then every 6 mo for a total of 5 y",
+            "Chest/abdominal/pelvic CT every 6–12 mo for 2 y, then every 12 mo y 3–5",
+            "PET/CT is not indicated",
+            "Routine capsule endoscopy is not indicated"
+        ]
+    },
+    "11": {
+        "workup": {
+            "imaging": [
+                "CT chest, abdomen",
+                "CT abdomen",
+                "CT pelvis"                
+            ],
+            "blood chemistry": [
+                "Complete blood count", 
+                "carbohydrate antigen 19-9 (CA 19-9)",
+                "Carcinoembryonic antigen (CEA)"
+            ],
+            "other": ["Mismatch repair (MMR) or microsatellite d instability (MSI) testing"]
+        }, 
+        "treatment": {
+            "systemic": {
+                "initial": [
+                    "FOLFOX ± bevacizumab or",
+                    "CAPEOX ± bevacizumab or",
+                    "FOLFIRI ± bevacizumab or",
+                    "FOLFIRINOX ± bevacizumab",
+                    "Pembrolizumab, Nivolumab ± Ipilimumab, or Dostarlimab-gxly (for dMMR/MSI-H tumors)"
+                ], 
+                "subsequent": [
+                    "FOLFOX ± bevacizumabe or", 
+                    "CAPEOXd ± bevacizumabe or", 
+                    "FOLFIRI ± bevacizumabe or", 
+                    "Taxane-based chemotherapy",
+                    "Pembrolizumab, Nivolumab ± Ipilimumab, or Dostarlimab-gxly (for dMMR/MSI-H tumors)"
+                ]
+            },
+            "surgical": ["Metastasectomy: certain patients with SBA and limited metastasis to visceral organs"], 
+            "other": [
+                "Palliative diversion or bypass (if obstructed)", 
+                "Reevaluate for conversion to resectable disease" 
+            ]
+        }, 
+        "followup": [
+            "History and physical examination CEA and/or CA 19-9 every 3–6 mo for 2 y then every 6 mo for a total of 5 y",
+            "Chest/abdominal/pelvic CT every 6–12 mo for 2 y, then every 12 mo y 3–5",
+            "PET/CT is not indicated",
+            "Routine capsule endoscopy is not indicated"
+        ]
+    }
+}

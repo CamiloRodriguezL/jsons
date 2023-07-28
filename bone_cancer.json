@@ -1,0 +1,517 @@
+{
+    "low grade and intracompartmental chondrosarcoma": {
+        "workup": {
+            "history and physical": [],
+            "imaging": [
+                "abnormal bone radiograph in patients younger than 40 years",
+                "ct scan of the chest, abdomen, and pelvis with contrast; bone scan; mammogram; and other imaging studies as clinically indicated should be performed if plain radiographs do not suggest a specific diagnosis in patients 40 years of age and older",
+                "chest radiograph or chest ct to detect pulmonary metastases"
+            ],
+            "laboratory studies": ["complete blood count (cbc), comprehensive metabolic panel (cmp) with calcium to assess for hypercalcemia, lactate dehydrogenase (ldh), and alkaline phosphatase (alp)"],
+            "pathology": ["percutaneous biopsy (core needle or fine-needle aspiration [fna]) and incisional (open)biopsy"],
+            "other": ["refer to orthopedic oncologist"]
+        },
+        "treatment": {
+            "surgical": ["intralesional curettage ± adjuvant cryosurgery", "wide excision, if resectable (preferred option for patients with pelvic low-grade chondrosarcomas)"],
+            "radiation": ["consider rt (>70 gy) with specialized techniques", "carbon ion radiotherapy, if unresectable or local recurrence - borderline resectable", "proton beam alone or in combination radiotherapy after incomplete resection or for palliation of symptoms if recurrent tumors"],
+            "systemic therapy": ["ivosidenib"]
+        },
+        "followup": ["physical exam", "radiographs of primary site and/or cross-sectional imaging mri or ct (both with contrast) every 6-12 months for 2 years, then yearly, as clinically indicated", "chest imaging every 6-12 months for 2 years, then yearly, as clinically indicated"]
+    },
+    "high grade (grade ii, grade ii) or clear cell or extracompartmental chondrosarcoma": {
+        "workup": {
+            "history and physical": [],
+            "imaging": ["abnormal bone radiograph in patients younger than 40 years", "ct scan of the chest, abdomen, and pelvis with contrast; bone scan; mammogram; and other imaging studies as clinically indicated should be performed if plain radiographs do not suggest a specific diagnosis in patients 40 years of age and older", "chest radiograph or chest ct to detect pulmonary metastases "],
+            "laboratory studies": ["complete blood count (cbc), comprehensive metabolic panel (cmp) with calcium to assess for hypercalcemia, lactate dehydrogenase (ldh), and alkaline phosphatase (alp)"],
+            "pathology": ["percutaneous biopsy (core needle or fine-needle aspiration [fna]) and incisional (open) biopsy "],
+            "systematic therapy": ["ivosidenib"],
+            "other": ["refer to orthopedic oncologist"]
+        },
+        "treatment": {
+            "surgical": ["wide excision, if resectable"],
+            "radiation": [
+                {
+                    "resectable": ["preoperative rt: 19.8 - 50.4 gy followed by individualized postoperative rt with final target dose of 70 gy for r1 resection and 72–78 gy for r2 resection.", "postoperative rt: 70 gy for r1 and >70 gy for r2 resection using specialized techniques."],
+                    "unresectable": ["consider rt (>70 gy) with specialized techniques."]
+                },
+                "carbon ion radiotherapy, if unresectable or local recurrence - borderline resectable",
+                "proton beam alone or in combination radiotherapy after incomplete resection or for palliation of symptoms if recurrent tumors"
+            ],
+            "systemic therapy": ["ivosidenib"]
+        },
+        "followup": ["physical exam", "radiographs of primary site and/or cross-sectional imaging mri or ct (both with contrast) as clinically indicated", "chest imaging every 3–6 months may include ct at least every 6 months for 5 years, then yearly for a minimum of 10 years, as clinically indicated", "reassess function at every follow-up visit"]
+    },
+    "oligometastatic disease (metastatic chondrosarcoma)": {
+        "workup": {
+            "history and physical": [],
+            "imaging": ["abnormal bone radiograph", "bone scan or pet/ct", "chest radiograph", "chest/abdominal/pelvic ctwith contrast", "mammogram"],
+            "blood chemistry": ["serum protein electrophoresis", "prostate-specific-antigen"],
+            "pathology": ["biopsy"]
+        },
+        "treatment": {
+            "surgical": ["surgical excision of all sites if possible"],
+            "radiation": ["radiotherapy for unresectable sites"],
+            "systemic therapy": ["dasatinib", "pazopanib"],
+            "other": ["clinical trial"]
+        },
+        "followup": [
+            "physical exam",
+            "radiographs of primary site and/or cross-sectional imaging mri or ct (both with contrast) as clinically indicated",
+            "chest imaging every 3–6 months may include ct at least every 6 months for 5 years, then yearly for a minimum of 10 years, as clinically indicated",
+            "reassess function at every follow-up visit"
+        ]
+    },
+    "widespread disease (metastatic chondrosarcoma)": {
+        "workup": {
+            "history and physical": [],
+            "imaging": [
+                "abnormal bone radiograph",
+                "bone scan or pet/ct",
+                "chest radiograph",
+                "chest/abdominal/pelvic ctwith contrast",
+                "mammogram"
+            ],
+            "blood chemistry": [
+                "serum protein electrophoresis",
+                "prostate-specific-antigen"
+            ],
+            "pathology": ["biopsy"]
+        },
+        "treatment": {
+            "surgical": ["surgery and/or ablative therapies for symptomatic sites"],
+            "radiation": ["radiotherapy for symptomatic sites"],
+            "systematic": ["systemic therapy"],
+            "systemic therapy": ["dasatinib", "pazopanib"],
+            "other": ["clinical trial "]
+        },
+        "followup": [
+            "physical exam", 
+            "radiographs of primary site and/or cross-sectional imaging mri or ct (both with contrast) as clinically indicated", 
+            "Chest imaging every 3–6 months may include ct at least every 6 months for 5 years, then yearly for a minimum of 10 years, as clinically indicated", 
+            "reassess function at every follow-up visit"
+        ]
+    },
+    "sacrococcygeal and mobile spine chordoma": {
+        "workup": {
+            "history and physical": [],
+            "imaging": [
+                "c-ray",
+                "mri ± ct with contrast",
+                "screening mri of spinal axis",
+                "chest/abdominal/pelvic ct with contrast",
+                {
+                    "pet/ct (skull base to mid-tight)": "bone scan uf pet/ct is negative"
+                }
+            ]
+        },
+        "treatment": {
+            "surgical": ["wide resection with adequate margins if resectable"],
+            "radiation": {
+                "resectable": [
+                    "preoperative rt: 19.8–50.4 gy followed by individualized postoperative rt",
+                    "postoperative rt: 70 gy for r1 and 72–78 gy for r2 resection"
+                ],
+                "unresectable": ["consider rt (>70 gy) using specialized techniques"],
+                "radiotherapy": ["if unresectable of positive surgical margins or for large extracompartmental tumors"]
+            },
+            "systemic": [
+                "systemic therapy if local or metastatic recurrence",
+                "imatinib",
+                "dasatinib",
+                "sunitinib"
+            ],
+            "other": ["best supportive care if metastatic recurrence"]
+        },
+        "followup": [
+            "physical exam",
+            "imaging of primary site, timing, and modality, as clinically indicated (x-ray, mri with contrast +/- ct with contrast) for up to 10 years",
+            "chest imaging every 6 months may include ct annually for 5 years, then annually thereafter, as clinically indicated"
+        ]
+    },
+    "skull base/clival chordoma": {
+        "workup": {
+            "history and physical": [],
+            "imaging": [
+                "c-ray",
+                {
+                    "mri ± ct with contrast": [
+                        "ct to delineate bone destruction and the presence of calcifications",
+                        "mri to define the tumor margin from brain, characterize the position and extension"
+                    ]
+                },
+                "screening mri of spinal axis",
+                "chest/abdominal/pelvic ct with contrast",
+                {
+                    "pet/ct (skull base to mid-tight)": "bone scan uf pet/ct is negative"
+                }
+            ]
+        },
+        "treatment": {
+            "surgical": [
+                {
+                    "intralesional excision with radiotherapy if resectable": "followed by mri to assess the adequacy of resection"
+                }
+            ],
+            "radiation": {
+                "resectable": [
+                    "postoperative rt (>70 gy) after r1/r2 resection using specialized techniques."
+                ],
+                "unresectable": ["rt (>70 gy) using specialized techniques"],
+                "radiotherapy": ["if unresectable of positive surgical margins or for large extracompartmental tumors"]
+            },
+            "systemic": [
+                "systemic therapy if local or metastatic recurrence",
+                "imatinib",
+                "dasatinib",
+                "sunitinib"
+            ],
+            "other": ["best supportive care if metastatic recurrence"]
+        },
+        "followup": [
+            "mri of primary site with contrast to assess adequacy of resection",
+            "physical exam",
+            "imaging of primary site, timing, and modality, as clinically indicated (x-ray, mri with contrast +/- ct with contrast) for up to 10 years",
+            "chest imaging every 6 months may include ct annually for 5 years, then annually thereafter, as clinically indicated"
+        ]
+    },
+    "ewing sarcoma": {
+        "workup": {
+            "history and physical": [],
+            "imaging": [
+                "mri±ct (both with contrast) of primary site",
+                "pet/ct (heat-to-toe)",
+                "bone scan",
+                "bone marrow biopsy",
+                "mri of spine and pelvis"
+            ],
+            "blood chemistry": ["ldh"],
+            "counseling": ["fertility consultation"],
+            "other": [
+                "cytogenetics",
+                "molecular studies"
+            ]
+        },
+        "treatment": {
+            "chemotherapy": [
+                "multiagent chemotherapy for at least 9 weeks prior to local therapy",
+                "vdc/ie (vincristine, doxorubicin, and cyclophosphamide alternating with ifosfamide and etoposide)"
+            ],
+            "other": [
+                {
+                    "local therapy": "local control therapy"
+                }
+            ]
+        },
+        "followup": [
+            "chest ct",
+            "mri ± ct (both with contrast) of primary site",
+            "radiographs of primary site",
+            "consider pet/ct (head-to-toe) or bone scan",
+            "repeat other abnormal studies"
+        ]
+    },
+    "ewing sarcoma stable/improved disease following primary treatment": {
+        "workup": {
+            "history and physical": [],
+            "imaging": [
+                "chest ct",
+                "mri ± ct (both with contrast) of primary site",
+                "radiographs of primary site",
+                "consider pet/ct (head-to-toe) or bone scan",
+                "repeat other abnormal studies"
+            ]
+        },
+        "treatment": {
+            "surgery": [
+                "wide excision",
+                "amputation in selected cases"
+            ],
+            "chemotherapy": ["if positive margins after wide excision"],
+            "radiotherapy": [
+                "should start by week 12 of vdc/ie chemotherapy or week 18 of vide and is given concurrently with chemotherapy, withholding anthracyclines during radiation therapy per the womer protocol.",
+                "45 gy to initial gross tumor volume (gtv1) + 1 - 1.5 cm for clinical target volume 1 (ctv1) + 0.5 - 1 cm for planning target volume 1 (ptv1) – gtv1 is defined as pre-treatment extent of bone and soft tissue disease. if the tumor has responded to chemotherapy and normal tissues have returned to their natural position, gtv1 should exclude pre-chemotherapy soft tissue volume that extended into a cavity (tumors indenting lung, intestine, or bladder resume normal position following chemotherapy).",
+                "cone-down (cd) to cover original bony extent to a total of 55.8 gy to post-chemotherapy soft tissue volume (gtv2) + 1–1.5 cm for ctv2 + 0.5–1 cm for ptv2",
+                "if positive margins after wide excision"
+            ]
+        },
+        "followup": [
+            "physical exam",
+            "mri ± ct (both with contrast) of primary site",
+            "chest imaging (x-ray or ct) every 2–3 months",
+            "radiographs of primary site",
+            "cbc and other laboratory studies as indicated",
+            "increase intervals for physical exam, imaging of primary site and chest after 24 months and annually after 5 years, as clinically indicated (indefinitely)",
+            "consider pet/ct (head-to-toe) or bone scan"
+        ]
+    },
+    "metastatic ewing sarcoma": {
+        "workup": {
+            "history and physical": [],
+            "imaging": [
+                "chest ct",
+                "mri ± ct (both with contrast) of primary site",
+                "radiographs of primary site",
+                "consider pet/ct (head-to-toe) or bone scan",
+                "repeat other abnormal studies"
+            ]
+        },
+        "treatment": {
+            "surgery": [
+                "wide excision",
+                "amputation in selected cases"
+            ],
+            "chemotherapy": [
+                "vdc/ie",
+                "vaia",
+                "vide",
+                "vdc (vincristine, doxorubicin, and cyclophosphamide)",
+                "definitive por local control therapy to primary site",
+                "if positive margins after wide excision",
+                "palliative"
+            ],
+            "radiotherapy": [
+                {
+                    "definitive por local control therapy to primary site": [
+                        "should start by week 12 of vdc/ie chemotherapy or week 18 of vide and is given concurrently with chemotherapy, withholding anthracyclines during radiation therapy per the womer protocol.",
+                        "45 gy to initial gross tumor volume (gtv1) + 1 - 1.5 cm for clinical target volume 1 (ctv1) + 0.5 - 1 cm for planning target volume 1 (ptv1) – gtv1 is defined as pre-treatment extent of bone and soft tissue disease. if the tumor has responded to chemotherapy and normal tissues have returned to their natural position, gtv1 should exclude pre-chemotherapy soft tissue volume that extended into a cavity (tumors indenting lung, intestine, or bladder resume normal position following chemotherapy).",
+                        "cone-down (cd) to cover original bony extent to a total of 55.8 gy to post-chemotherapy soft tissue volume (gtv2) + 1–1.5 cm for ctv2 + 0.5–1 cm for ptv2"
+                    ]
+                },
+                {
+                    "if positive margins after wide excision": [
+                        "after 60 days of surgery and is given concurrently with consolidation chemotherapy",
+                        "r0 resection: 45 gy to gtv2 equivalent volume + 1–1.5 cm for ctv1 + 0.5–1 cm for ptv1)",
+                        "r1 resection: 45 gy gtv2 equivalent volume + 1–1.5 cm for ctv1 + 0.5–1 cm for ptv1",
+                        "r2 resection: 45 gy to gtv2 equivalent volume + 1–1.5 cm for ctv1 + 0.5–1 cm for ptv1 followed by cd to residual disease plus a total of 55.8 gy to gtv2 + 1–1.5 cm for ctv2 + 0.5–1 cm for ptv2"
+                    ]
+                },
+                "palliative"
+            ],
+            "second line therapy": [
+                "cyclophosphamide and topotecan",
+                "irinotecan + temozolomide ± vincristine"
+            ]
+        },
+        "followup": [
+            "physical exam",
+            "mri ± ct (both with contrast) of primary site",
+            "chest imaging (x-ray or ct) every 2–3 months",
+            "radiographs of primary site",
+            "cbc and other laboratory studies as indicated",
+            "increase intervals for physical exam, imaging of primary site and chest after 24 months and annually after 5 years, as clinically indicated (indefinitely)",
+            "consider pet/ct (head-to-toe) or bone scan"
+        ]
+    },
+    "giant cell tumor of bone localized disease": {
+        "workup": {
+            "history and physical": [],
+            "imaging": [
+                "imaging of primary site as clinically indicated (x-ray and mri with contrast ± ct)",
+                "chest imaging",
+                "bone scan (optional)"
+            ],
+            "pathology": ["biopsy to confirm diagnosis"]
+        },
+        "treatment": {
+            "surgical": ["excision if resectable"],
+            "systemic": ["denosumab if resectable with unacceptable morbidity or unresectable axial lesions"],
+            "radiation": [
+                "50–60 gy for unresectable/progressive/recurrent disease that has not responded to denosumab, serial embolizations, or other treatments.",
+                "radiotherapy if resectable with unacceptable morbidity or unresectable axial lesions"
+            ]
+        },
+        "followup": [
+            "physical exam",
+            "imaging of surgical site as clinically indicated (eg, x-ray, mri ct with contrast ± mri with contrast)",
+            "chest imaging every 6–12 months for 4 years then annually thereafter, as clinically indicated"
+        ]
+    },
+    "giant cell tumor of bone metastatic disease": {
+        "workup": {
+            "history and physical": [],
+            "imaging": [
+                "imaging of primary site as clinically indicated (x-ray and mri with contrast ± ct)",
+                "chest imaging",
+                "bone scan (optional)"
+            ],
+            "pathology": ["biopsy to confirm diagnosis"]
+        },
+        "treatment": {
+            "surgical": ["if resectable excision"],
+            "systemic": ["denosumab if unresectable"],
+            "radiation": ["radiotherapy if unresectable"],
+            "observation": ["if resectable"]
+        },
+        "followup": [
+            "physical exam",
+            "imaging of surgical site as clinically indicated (eg, x-ray, mri ct with contrast ± mri with contrast)",
+            "chest imaging every 6–12 months for 4 years then annually thereafter, as clinically indicated"
+        ]
+    },
+    "low grade osteosarcoma: intramedullary + surface": {
+        "workup": {
+            "history and physical": [],
+            "imaging": [
+                "mri ± ct (both with contrast) of primary site",
+                "chest imaging including chest ct",
+                "pet/ct (head-to-toe) and/or bone scan",
+                "mri or ct (both with contrast) of skeletal metastatic sites"
+            ],
+            "blood chemistry": [
+                "ldh",
+                "alkaline phosphatase (alp)"
+            ],
+            "counseling": [
+                "fertility consultation should be considered",
+                "consider personal and family history for genetic consultation and testing"
+            ]
+        },
+        "treatment": {
+            "surgical": ["wide excision"],
+            "chemotherapy": ["high grade"]
+        },
+        "followup": [
+            "physical exam, imaging of primary site and chest",
+            {
+                "follow-up schedule: (orthopedic and oncologic)": [
+                    "every 3 months for first and second year",
+                    "every 4 months for third year",
+                    "every 6 months for fourth and fifth years",
+                    "yearly thereafter, as clinically indicated"
+                ]
+            },
+            "cbc and other laboratory studies as clinically indicated",
+            "consider pet/ct (head-to-toe) and/or bone scan",
+            "reassess function every visit"
+        ]
+    },
+    "periosteal osteosarcoma": {
+        "workup": {
+            "history and physical": [],
+            "imaging": [
+                "mri ± ct (both with contrast) of primary site",
+                "chest imaging including chest ct",
+                "pet/ct (head-to-toe) and/or bone scan",
+                "mri or ct (both with contrast) of skeletal metastatic sites"
+            ],
+            "blood chemistry": [
+                "ldh",
+                "alkaline phosphatase (alp)"
+            ],
+            "counseling": [
+                "fertility consultation should be considered",
+                "consider personal and family history for genetic consultation and testing"
+            ]
+        },
+        "treatment": {
+            "surgical": ["wide excision"],
+            "chemotherapy": {
+                "preferred regimens": [
+                    "cisplatin and doxorubicin",
+                    "map (high-dose methotrexate, cisplatin, and doxorubicin)"
+                ],
+                "other recommended regimens": ["doxorubicin, cisplatin, ifosfamide, and high-dose methotrexate"]
+            },
+            "second line therapy": {
+                "preferred regimens": [
+                    "ifosfamide (high dose) ± etoposide",
+                    "regorafenib",
+                    "sorafenib"
+                ],
+                "other recommended regimens": [
+                    "cabozantinib",
+                    "cyclophosphamide and topotecan",
+                    "docetaxel and gemcitabine",
+                    "gemcitabine",
+                    "sorafenib + everolimus"
+                ]
+            }
+        },
+        "followup": [
+            {
+                "follow-up schedule: (orthopedic and oncologic)": [
+                    "every 3 months for first and second year",
+                    "every 4 months for third year",
+                    "every 6 months for fourth and fifth years",
+                    "yearly thereafter, as clinically indicated"
+                ]
+            },
+            "cbc and other laboratory studies as clinically indicated",
+            "consider pet/ct (head-to-toe) and/or bone scan",
+            "reassess function every visit"
+        ]
+    },
+    "high-grade osteosarcoma: intramedullary + surface": {
+        "workup": {
+            "history and physical": [],
+            "imaging": [
+                "mri ± ct (both with contrast) of primary site",
+                "chest imaging including chest ct",
+                "pet/ct (head-to-toe) and/or bone scan",
+                "mri or ct (both with contrast) of skeletal metastatic sites"
+            ],
+            "blood chemistry": [
+                "ldh",
+                "alkaline phosphatase (alp)"
+            ],
+            "counseling": [
+                "fertility consultation should be considered",
+                "consider personal and family history for genetic consultation and testing"
+            ]
+        },
+        "treatment": {
+            "surgical": ["wide excision if resectable"],
+            "chemotherapy": [
+                {
+                    "preferred regimens": [
+                        "cisplatin and doxorubicin",
+                        "map (high-dose methotrexate, cisplatin, and doxorubicin)"
+                    ]
+                },
+                {
+                    "other recommended regimens": ["doxorubicin, cisplatin, ifosfamide, and high-dose methotrexate"]
+                },
+                "if unresectable",
+                "if positive margins with good response",
+                "if negative margins and good response",
+                "if there's a relapse"
+            ],
+            "radiation": [
+                "consider rt for positive margins (r1) or gross residual (r2) or unresectable disease.",
+                "postoperative rt (r1 and r2 resections):1 55 gy with 9–13 gy boost to microscopic or gross disease (total dose to high-risk sites 64–68 gy)",
+                "unresectable disease: 60–70 gy (total dose will depend on normal tissue tolerance)",
+                "if unresectable",
+                "if positive margins and poor response"
+            ],
+            "second line therapy": {
+                "preferred regimens": [
+                    "ifosfamide (high dose) ± etoposide",
+                    "regorafenib",
+                    "sorafenib"
+                ],
+                "other recommended regimens": [
+                    "cabozantinib",
+                    "cyclophosphamide and topotecan",
+                    "docetaxel and gemcitabine",
+                    "gemcitabine",
+                    "sorafenib + everolimus",
+                    "preoperative chemotherapy"
+                ]
+            }
+        },
+        "followup": [
+            "physical exam, imaging of primary site and chest",
+            {
+                "follow-up schedule: (orthopedic and oncologic)": [
+                    "every 3 months for first and second year",
+                    "every 4 months for third year",
+                    "every 6 months for fourth and fifth years",
+                    "yearly thereafter, as clinically indicated"
+                ]
+            },
+            "cbc and other laboratory studies as clinically indicated",
+            "consider pet/ct (head-to-toe) and/or bone scan",
+            "reassess function every visit"
+        ]
+    }
+}

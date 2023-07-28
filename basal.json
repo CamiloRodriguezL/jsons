@@ -1,0 +1,148 @@
+{
+    "1": {
+        "workup": {
+            "history and physical examination": [
+                "Risk assessment to determine the treatment plan",
+                "Classify as low or high risk"
+            ], 
+            "pathology": [
+                "Skin biopsy that includes deep reticular dermis on any suspicious lesion",
+                "For cases that present with regional or distant metastatic disease at diagnosis, the disease should be treated as nodal or distant metastases"
+            ]
+        }, 
+        "treatment": {
+            "surgical": {
+                    "Curettage and electrodesiccation (C&E)": {
+                        "Contraindication": [
+                            "Areas with terminal hair growth such as the scalp, pubic and axillary regions, or beard area in males",
+                            "If the subcutaneous layer is reached during the course of C&E, then surgical excision should generally be performed instead"
+                        ]
+                    }, 
+                    "Standard surgical excision followed by postoperative pathologic evaluation of margins": ["For well-circumscribed BCC lesions smaller than 2 cm in diameter the clinical margins chosen are 4-mm"], 
+                    "Micrographic surgery or resection with peripheral and deep en face margin assessment": [
+                        "For tumors on the cheeks, forehead, scalp, neck, and pretibial that are less than 6 mm in depth and confined to the dermis",  
+                        {
+                            "When positive margins with standard excision": [
+                                "Mohs is the preferred surgical technique over standard excision for reexcision",
+                                "When standard excision with wider surgical margins yields positive margins, Mohs) or other forms of PDEMA or standard reexcision is recommended (if PDEMA is not feasible)", 
+                                "Evaluate postoperative margin assessment"
+                            ]
+                        }
+
+                    ]
+                }, 
+
+            
+            "radiation": [
+                "RT for non surgical patients",
+                "Additional treatment after positive margins with standard excision"
+            ]
+        }, 
+        "followup": {
+            "Close follow-up of patients in both the short- and long-term": [], 
+            "History and physical examination": ["6 to 12 months for the first 5 years, and then at least annually for life"], 
+            "Imaging": ["May be considered if clinical examination is insufficient for following the disease"], 
+            "Education": ["On sun protection and self-examination"]
+        }
+    }, 
+    "2": {
+        "workup": {
+            "history and physical examination": [
+                "Risk assessment to determine the treatment plan",
+                "Classify as low or high risk"
+            ], 
+            "pathology": [
+                "Skin biopsy that includes deep reticular dermis on any suspicious lesion",
+                "Complete histologic assessment of the entire marginal surface"
+            ]
+        }, 
+        "treatment": {
+            "surgery": [
+                {
+                    "Mohs Micrographic Surgery": [
+                        "Primary surgical technique of choice for local, high-risk BCC", 
+                        "Mohs is also recommended when standard excision with wider surgical margins is unable to achieve negative margins in local, high-risk BCC",
+                        "The preferred surgical technique over standard excision for re excision",
+                        "When standard excision with wider surgical margins yields positive margins, Mohs or other forms of peripheral and deep en face margin assessment (PDEMA) or standard re excision is recommended (if PDEMA is not feasible)"
+
+                    ], 
+                    "Standard surgical excision followed by postoperative pathologic evaluation of margins": ["Recommended as the primary treatment"],
+                    "Peripheral and Deep En Face Margin Assessment (PDEMA)": ["Alternative to Mohs provided it includes a complete assessment of all deep and peripheral margins"]
+                }, 
+                "It is not feasible to recommend a defined margin for standard excision of high-risk BCC",
+                "When standard excision is used, tissue rearrangement (eg, flap reconstruction, extensive undermining) should not be undertaken until clear margins are identified. Second intention healing, linear repair, or skin graft are acceptable options"
+            ], 
+            "radiation": [
+                "For non surgical patients",
+                "Additional treatment after positive margins with Mohs or other forms of PDEMA and adjuvant treatment after negative margins with Mohs or other forms of PDEMA in case of extensive perineural or large-nerve involvement",
+                "For patients that have undergone multiple resections, and further surgery is not feasible, RT is recommended if residual disease is present"
+            ], 
+            "systemic": {
+                "Indications in local, high risk BBC": [
+                    "After positive-margin with Mohs or other forms of PDEMA",
+                    "For residual disease after multiple resections (with Mohs or other forms of PDEMA or standard excision)",
+                    "As primary treatment if curative RT and/or curative surgery is not feasible" 
+                ], 
+                "Other indications": [
+                    "Recurrent BCC after surgery",
+                    "Locally advanced (laBCC) or metastatic BCC (mBCC)" 
+                ]
+            }, 
+            "other": [
+                {
+                    "Vismodegib": ["Indications: adults with laBCC or mBCC that has recurred following surgery, or those who are not candidates for surgery or RT"],
+                    "Sonidegib": ["Indication: patients with laBCC that has recurred following surgery or RT, or who are not candidates for surgery or RT"],
+                    "Cemiplimab-rwlc": ["Indications: patients with laBCC or mBCC previously treated with an HHI or for whom an HHI is not appropriate"],
+                    "Superficial therapies": [
+                        "Indications: for superficial BBC in patients where surgery or RT is contraindicated or impractical",
+                        "Topical Therapies: Imiquimod , Fluorouracil (5- FU)",
+                        "Photodynamic Therapy (PDT): PDT with photosensitizing agents including methyl aminolevulinate (MAL), 5-aminolevulinic acid (ALA)",
+                        "Cryotherapy"
+                    ]
+                },
+                "Immunotherapy",
+                "Hedgehog pathway inhibitor"
+            ]
+        }, 
+        "followup": {
+            "Close follow-up of patients in both the short- and long-term": [], 
+            "History and physical examination": ["6 to 12 months for the first 5 years, and then at least annually for life"], 
+            "Imaging": ["May be considered if clinical examination is insufficient for following the disease"], 
+            "Education": ["On sun protection and self-examination"]
+        }
+    }, 
+    "3": {
+        "workup": {
+            "history and physical examination": [
+                "Risk assessment to determine the treatment plan",
+                "Classify as low or high risk"
+            ], 
+            "pathology": [
+                "Skin biopsy that includes deep reticular dermis on any suspicious lesion",
+                "Complete histologic assessment of the entire marginal surface"
+            ], 
+            "imaging": [
+                "MRI contrast if perineural disease is suspected",
+                "CT contrast if bone disease is suspected",
+                "MRI if large nerve involvement is suspected", 
+                "CT imaging and/ or histologic analysis  to confirm and gauge extent of disease in nodal or distant metastases"
+            ], 
+            "For cases that present with regional or distant metastatic disease at diagnosis, the disease should be treated as nodal or distant metastases": []
+        }, 
+        "treatment": {
+            "Hedgehog pathway inhibitor": {
+                "Vismodegib": ["Indications: adults with laBCC or mBCC that has recurred following surgery, or those who are not candidates for surgery or RT"],
+                "Sonidegib": ["Indication: patients with laBCC that has recurred following surgery or RT, or who are not candidates for surgery or RT"]
+            },
+            "Immunotherapy": {
+                "Cemiplimab-rwlc": ["Indications: patients with laBCC or mBCC previously treated with an HHI or for whom an HHI is not appropriate"]
+            }
+        }, 
+        "followup": {
+            "Close follow-up of patients in both the short- and long-term": [], 
+            "History and physical examination": ["6 to 12 months for the first 5 years, and then at least annually for life"], 
+            "Imaging": ["May be considered if clinical examination is insufficient for following the disease"], 
+            "Education": ["On sun protection and self-examination"]
+        }
+    }
+}

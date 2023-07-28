@@ -1,0 +1,398 @@
+{
+    "1": {
+        "workup": {
+            "imaging": [
+                "chest CT with contrast",
+                "abdomen CT with contrast",
+                "pelvis CT with contrast",
+                "after MPeM diagnosis is made, PET/CT is done to determine whether patients have unicavitary or bicavitary disease"
+            ],
+            "biopsy": [
+                "midline laparoscopy to obtain biopsy and determine is cytoreductive surgery is possible",
+                "image guided core biopsy is recommended if bulky disease or visceral organ metastasis is suspected",
+                "histopathology studies are essential for accurate diagnosis",
+                "fine needle aspiration of the tumor is not recommended",
+                "paracentesis is not recommended for diagnosis" 
+            ],
+            "serum biomarkers": [
+                "measurement of soluble mesothelin-related peptide (SMRP) may be considered",
+                "measurement of CA-125 may be considered"
+            ],
+            "multidisciplinary evaluation": ["recommended to assess whether patients are eligible for surgery"]
+        },
+        "treatment": {
+            "surgical": {
+                "medically operable and complete cytoreduction achievable": [
+                    "complete cytoreduction is recommended for all patients with operable disease",
+                    "palliative surgery may be considered only if there will be minimal morbidity",
+                    "hyperthermic intraperitoneal chemotherapy (HIPEC) may be considered only if there will be minimal morbidity"
+                ], 
+                "medically inoperable and complete cytoreduction not achievable": [
+                    "if performance status is 3-4, best supportive care is recommended",
+                    "if performance status is 0-2, systemic therapy is recommended",
+                    "if after systemic therapy disease becomes medically operable, cytoreduction and HIPEC are recommended" 
+                ]
+            }, 
+            "systemic": {
+                "systemic therapy" : {
+                    "recommended for": [
+                        "patients with medically inoperable disease",
+                        "patients for whom a complete CRS cannot be achieved",
+                        "patients with operable disease who refuse surgery",
+                        "patients with bicavitary disease regardless of histology",
+                        "patients with recurrence after previous CRS and HIPEC"
+                    ], 
+                    "first line systemic therapy regimens for non-operable disease": [
+                        "Pemetrexed/cisplatin with or without Bevacizumab",
+                        "Pemetrexed/carboplatin with or without Bevacizumab",
+                        "Nivolumab/ipilimumab"
+                    ], 
+                    "Useful in certain circumstances therapy regimens": [
+                        "Gemcitabine/cisplatin",
+                        "Pemetrexed",
+                        "Vinorelbine"
+                    ], 
+                    "Second line and beyond therapy regimens": {
+                        "If chemotherapy was the first line treatment": [
+                            "Nivolumab with or without ipilimumab"
+                        ], 
+                        "If nivolumab/ipilimumab was first line": [
+                            "Cisplatin/pemetrexed with or without bevacizumab",
+                            "Pemetrexed"
+                        ], 
+                        "Other recommended regimens": [
+                            "Atezolizumab/bevacizumab",
+                            "Gemcitabine",
+                            "Vinorelbine"
+                        ]
+                    }
+                }, 
+                "Perioperative systemic therapy": {
+                    "Should be considered if patients have high risk features such as": [
+                        "Ki-67 >9%",
+                        "Nodal metastases",
+                        "High tumor burden: peritoneal cancer index >17",
+                        "CC >1",
+                        "Biphasic disease",
+                        "Bicavitary disease"
+                    ], 
+                    "After perioperative systemic therapy, patients may be eligible for cytoreductive surgery and Hyperthermic intraperitoneal chemotherapy (HIPEC)": [], 
+                    "Intraperitoneal chemotherapy regimens": [
+                        "Cisplatin/doxorubicin",
+                        "Cisplatin",
+                        "Carboplatin",
+                        "Cisplatin/mitomycin"
+                    ], 
+                    "Radiation therapy": [
+                        "Not recommended as primary treatment",
+                        "Radiation therapy can be considered for selective palliation"
+                    ]
+                }
+            }
+        }, 
+        "followup": {
+            "imaging studies": [
+                "chest CT with contrast",
+                "abdomen CT with contrast",
+                "pelvis CT with contrast" 
+            ]
+        }
+    }, 
+    "2": {
+        "workup": {
+            "imaging": [
+                "chest CT with contrast",
+                "abdomen CT with contrast",
+                "pelvis CT with contrast",
+                "After MPeM diagnosis is made, PET/CT is done to determine whether patients have unicavitary or bicavitary disease"
+            ],
+            "biopsy": [
+                "Midline Laparoscopy to obtain biopsy and determine is cytoreductive surgery is possible",
+                "Image guided core biopsy is recommended if bulky disease or visceral organ metastasis is suspected",
+                "Histopathology studies are essential for accurate diagnosis",
+                "Fine needle aspiration of the tumor is not recommended",
+                "Paracentesis is not recommended for diagnosis"
+            ],
+            "serum biomarkers": [
+                "Measurement of soluble mesothelin-related peptide (SMRP) may be considered",
+                "Measurement of CA-125 may be considered"
+            ],
+            "multidisciplinary evaluation": ["Recommended to assess whether patients are eligible for surgery"]
+        },
+        "treatment": {
+            "surgical": {
+                "Medically operable and complete cytoreduction achievable": [
+                    "Complete cytoreduction is recommended for all patients with operable disease",
+                    "Palliative surgery may be considered only if there will be minimal morbidity",
+                    "Hyperthermic intraperitoneal chemotherapy (HIPEC) may be considered only if there will be minimal morbidity"
+                ], 
+                "Medically inoperable and complete cytoreduction not achievable": [
+                    "If performance status is 3-4, best supportive care is recommended",
+                    "If performance status is 0-2, systemic therapy is recommended",
+                    "If after systemic therapy disease becomes medically operable, cytoreduction and HIPEC are recommended" 
+                ]
+            }, 
+            "systemic": {
+                "systemic therapy" : {
+                    "recommended for": [
+                        "Patients with medically inoperable disease",
+                        "Patients for whom a complete CRS cannot be achieved",
+                        "Patients with operable disease who refuse surgery",
+                        "Patients with bicavitary disease regardless of histology",
+                        "Patients with recurrence after previous CRS and HIPEC" 
+                    ], 
+                    "first line systemic therapy regimens for non-operable disease": [
+                        "Nivolumab/ipilimumab",
+                        "Pemetrexed/cisplatin with or without Bevacizumab"                        
+                    ], 
+                    "Useful in certain circumstances therapy regimens": [
+                        "Gemcitabine/cisplatin",
+                        "Pemetrexed",
+                        "Vinorelbine"                     
+                    ], 
+                    "Second line and beyond therapy regimens": {
+                        "If chemotherapy was the first line treatment": [
+                            "Nivolumab with or without ipilimumab"
+                        ], 
+                        "If nivolumab/ipilimumab was first line": [
+                            "Cisplatin/pemetrexed with or without bevacizumab",
+                            "Pemetrexed"
+                        ], 
+                        "Other recommended regimens": [
+                            "Atezolizumab/bevacizumab",
+                            "Gemcitabine",
+                            "Vinorelbine"
+                        ]
+                    }
+                }, 
+                "Perioperative systemic therapy": {
+                    "Should be considered if patients have high risk features such as": [
+                        "Ki-67 >9%",
+                        "Nodal metastases",
+                        "High tumor burden: peritoneal cancer index >17",
+                        "CC >1",
+                        "Biphasic disease",
+                        "Bicavitary disease" 
+                    ], 
+                    "After perioperative systemic therapy, patients may be eligible for cytoreductive surgery and Hyperthermic intraperitoneal chemotherapy (HIPEC)": [], 
+                    "Intraperitoneal chemotherapy regimens": [
+                        "Cisplatin/doxorubicin",
+                        "Cisplatin",
+                        "Carboplatin",
+                        "Cisplatin/mitomycin"
+                    ], 
+                    "Radiation therapy": [
+                        "Not recommended as primary treatment",
+                        "Radiation therapy can be considered for selective palliation"
+                    ]
+                }
+            }
+        }, 
+        "followup": {
+            "imaging studies": [
+                "chest CT with contrast",
+                "abdomen CT with contrast",
+                "pelvis CT with contrast" 
+            ]
+        }
+    },
+    "3": {
+        "workup": {
+            "imaging": [
+                "Chest CT with contrast",
+                "Abdomen CT with contrast",
+                "Pelvis CT with contrast",
+                "After MPeM diagnosis is made, PET/CT is done to determine whether patients have unicavitary or bicavitary disease" 
+            ],
+            "biopsy": [
+                "Midline Laparoscopy to obtain biopsy and determine is cytoreductive surgery is possible",
+                "Image guided core biopsy is recommended if bulky disease or visceral organ metastasis is suspected",
+                "Histopathology studies are essential for accurate diagnosis",
+                "Fine needle aspiration of the tumor is not recommended",
+                "Paracentesis is not recommended for diagnosis" 
+            ],
+            "serum biomarkers": [
+                "Measurement of soluble mesothelin-related peptide (SMRP) may be considered",
+                "Measurement of CA-125 may be considered"
+            ],
+            "multidisciplinary evaluation": ["Recommended to assess whether patients are eligible for surgery"]
+        },
+        "treatment": {
+            "surgical": [
+                "Surgery is usually contraindicated",
+                "If PS is 0-2, systemic therapy is recommended",
+                "If PS is 3-4, best supportive care is recommended"
+            ], 
+            "systemic": {
+                "First line systemic therapy regimens for non-operable disease": [
+                    "Nivolumab/ipilimumab", 
+                    "Pemetrexed/cisplatin with or without Bevacizumab"
+                ], 
+                "Useful in certain circumstances therapy regimens": [
+                    "Gemcitabine/cisplatin",
+                    "Pemetrexed",
+                    "Vinorelbine"
+                ], 
+                "Second line and beyond therapy regimens": {
+                    "If nivolumab/ipilimumab was first line": [
+                        "Cisplatin/pemetrexed with or without bevacizumab",
+                        "Pemetrexed"
+                    ], 
+                    "If chemotherapy was the first line treatment": [
+                        "Nivolumab with or without ipilimumab"
+                    ], 
+                    "Other recommended regimens": [
+                        "Atezolizumab/bevacizumab",
+                        "Gemcitabine",
+                        "Vinorelbine"
+                    ]
+                }, 
+                "Radiation therapy": [
+                    "Not recommended as primary treatment",
+                    "Radiation therapy can be considered for selective palliation" 
+                ]
+            }
+        }, 
+        "followup": {
+            "imaging studies": [
+                "chest CT with contrast",
+                "abdomen CT with contrast",
+                "pelvis CT with contrast" 
+            ]
+        }
+    },
+    "4": {
+        "workup": {
+            "imaging": [
+                "Chest CT with contrast",
+                "Abdomen CT with contrast",
+                "Pelvis CT with contrast",
+                "After MPeM diagnosis is made, PET/CT is done to determine whether patients have unicavitary or bicavitary disease" 
+            ],
+            "biopsy": [
+                "Midline Laparoscopy to obtain biopsy and determine is cytoreductive surgery is possible",
+                "Image guided core biopsy is recommended if bulky disease or visceral organ metastasis is suspected",
+                "Histopathology studies are essential for accurate diagnosis",
+                "Fine needle aspiration of the tumor is not recommended",
+                "Paracentesis is not recommended for diagnosis" 
+            ],
+            "serum biomarkers": [
+                "Measurement of soluble mesothelin-related peptide (SMRP) may be considered",
+                "Measurement of CA-125 may be considered"
+            ],
+            "multidisciplinary evaluation": ["Recommended to assess whether patients are eligible for surgery"]
+        },
+        "treatment": {
+            "surgical": {
+                "Symptomatic, recurrent or microinvasive disease": [
+                    "Cytoreductive surgery and/or HIPEC are recommended"
+                ], 
+                "Asymptomatic and noninvasive disease": [
+                    "Observation with imaging surveillance is recommended",
+                    "If disease progresses to symptomatic or invasive, cytoreduction and/or HIPEC are recommended"
+                ]
+            }, 
+            "systemic": {
+                "systemic therapy": {
+                    "recommended for": [
+                        "Patients with medically inoperable disease",
+                        "Patients for whom a complete CRS cannot be achieved",
+                        "Patients with operable disease who refuse surgery",
+                        "Patients with bicavitary disease regardless of histology",
+                        "Patients with recurrence after previous CRS and HIPEC" 
+                    ],
+                    "Should be considered if patients have high risk features such as": [
+                        "Ki-67 >9%",
+                        "Nodal metastases",
+                        "High tumor burden: peritoneal cancer index >17",
+                        "CC >1",
+                        "Biphasic disease",
+                        "Bicavitary disease"
+                    ], 
+                    "After perioperative systemic therapy, patients may be eligible for cytoreductive surgery and Hyperthermic intraperitoneal chemotherapy (HIPEC)": [], 
+                    "Intraperitoneal chemotherapy regimens": [
+                        "Cisplatin/doxorubicin",
+                        "Cisplatin",
+                        "Carboplatin",
+                        "Cisplatin/mitomycin"
+                    ]
+                }, 
+                "Perioperative systemic therapy": {}, 
+                "Radiation therapy": [
+                    "Not recommended as primary treatment",
+                    "Radiation therapy can be considered for selective palliation"
+                ]
+            }
+        },
+        "followup": {
+            "imaging studies": [
+                "chest CT with contrast",
+                "abdomen CT with contrast",
+                "pelvis CT with contrast" 
+            ]
+        }
+    },
+    "5": {
+        "workup": {
+            "imaging": [
+                "Chest CT with contrast",
+                "Abdomen CT with contrast",
+                "Pelvis CT with contrast",
+                "After MPeM diagnosis is made, PET/CT is done to determine whether patients have unicavitary or bicavitary disease" 
+            ],
+            "biopsy": [
+                "Midline Laparoscopy to obtain biopsy and determine is cytoreductive surgery is possible",
+                "Image guided core biopsy is recommended if bulky disease or visceral organ metastasis is suspected",
+                "Histopathology studies are essential for accurate diagnosis",
+                "Fine needle aspiration of the tumor is not recommended",
+                "Paracentesis is not recommended for diagnosis" 
+            ],
+            "serum biomarkers": [
+                "Measurement of soluble mesothelin-related peptide (SMRP) may be considered",
+                "Measurement of CA-125 may be considered"
+            ],
+            "multidisciplinary evaluation": ["Recommended to assess whether patients are eligible for surgery"]
+        },
+        "treatment": {
+            "systemic": {
+                "systemic therapy": {
+                    "recommended for": [
+                        "Patients with medically inoperable disease",
+                        "Patients for whom a complete CRS cannot be achieved",
+                        "Patients with operable disease who refuse surgery",
+                        "Patients with bicavitary disease regardless of histology",
+                        "Patients with recurrence after previous CRS and HIPEC" 
+                    ]
+                },
+                "Perioperative systemic therapy": {
+                    "Should be considered if patients have high risk features such as": [
+                        "Ki-67 >9%",    
+                        "Nodal metastases",
+                        "High tumor burden: peritoneal cancer index >17",
+                        "CC >1",
+                        "Biphasic disease",
+                        "Bicavitary disease" 
+                    ], 
+                    "After perioperative systemic therapy, patients may be eligible for cytoreductive surgery and Hyperthermic intraperitoneal chemotherapy (HIPEC)": [], 
+                    "Intraperitoneal chemotherapy regimens": [
+                        "Cisplatin/doxorubicin",
+                        "Cisplatin",
+                        "Carboplatin",
+                        "Cisplatin/mitomycin"
+                    ]
+                }, 
+                "Radiation therapy": [
+                    "Not recommended as primary treatment",
+                    "Radiation therapy can be considered for selective palliation" 
+                ]
+            }
+        }, 
+        "followup": {
+            "imaging studies": [
+                "chest CT with contrast",
+                "abdomen CT with contrast",
+                "pelvis CT with contrast" 
+            ]
+        }
+    }
+}

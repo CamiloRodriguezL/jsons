@@ -1,0 +1,172 @@
+{
+    "1": {
+        "workup": {
+            "history and physical": [],
+            "imaging": ["Chest/abdominal/pelvic CT with contrast and/or PET-CT"],
+            "blood chemistry": [
+                "Complete blood count, differential, platelet count",
+                "Peripheral blood smear",
+                "Serum uric acid, serum LDH, beta-2 microglobulin", 
+                "Serum quantitative immunoglobulins, serum protein electrophoresis, serum immunofixation electrophoresis",
+                {
+                    "Comprehensive Metabolic Panel": {
+                        "Including BUN, creatinine, electrolytes, albumin, calcium, and liver function tests": "Creatinine clearance"
+                    }
+                }
+            ], 
+            "pathology": [
+                {
+                    "Hematopathology review of all slides with at least one paraffin block representative of the tumor": "Rebiopsy if consult material is nondiagnostic"
+                }, 
+                "Adequate tissue biopsy for immunophenotyping to establish diagnosis",
+                {
+                    "Unilateral bone marrow aspirate and biopsy, including immunohistochemistry and/or multi-parameter flow cytometry": [
+                        "Bone marrow infiltration by small lymphocytes, plasmacytoid cells, and plasma cells",
+                        "Diffuse, interstitial, or nodular pattern of bone marrow infiltration",
+                        {
+                            "sIgM+, CD19+, CD20+, CD22+": "IgM monoclonal gammopathy of any concentration"
+                        }, 
+                        "Lymphoplasmacytic cells in  the bone marrow",
+                        {
+                            "Bone marrow aspirate tested for MYD88 (L265P)": "Allele-specific polymerase chain reaction"
+                        }
+
+                    ]
+                }
+            ], 
+            "Other: useful in certain circunstances": [
+                "Serum viscosity", 
+                "CXCR4 gene mutation testing for patients being considered for Bruton’s tyrosine kinase (BTK) inhibitors",
+                "Testing for hepatitis B (if rituximab planned), hepatitis C,f and HIV",
+                {
+                    "Cryocrit": "If positive = repeat testing of initial serum IgM, and obtain all subsequent serum IgM levels under warm conditions"
+                },
+                "Consider coagulation and/or von Willebrand disease testing if symptoms present (excess bruising or bleeding) or if clinically indicated", 
+                "Cold agglutinins", 
+                "Neurology consult", 
+                "Anti-myelin-associated glycoprotein (MAG) antibodies/anti-GM1",
+                "Nerve conduction study (NCS)/electromyogram (EMG)",
+                "Fat pad sampling and/or congo red staining of bone marrow for amyloid",
+                "Retinal examination (if IgM ≥3.0 g/dL or if hyperviscosity is suspected)", 
+                "24-h urine for total protein, urine protein electrophoresis (UPEP), and urine immunofixation electrophoresis (UIFE)", 
+                "Amyloid tissue subtyping with mass spectrometry, if indicated"
+            ], 
+            "Other Consider when": [
+                "Hyperviscosity", 
+                "Neuropathy", 
+                "Organomegaly", 
+                "Amyloidosis", 
+                "Cold agglutin disease", 
+                "Cryoglubulinemia", 
+                "Anemia and other cytopenias associated with disease", 
+                "Bulky adenopathy", 
+                "B symptoms"
+            ]
+        }, 
+        "treatment": {
+            "If hyperviscosity, neuropathy, symptomatic adenopathy or organomegaly, amyloidosis, cryoglobulinemia cold agglutinin disease, anemia, and presence of cytopenia": {
+                "If candidates for hematopoietic cell transplantation (HCT)": [
+                    "Exposure to nucleoside analogs (fludarabine and cladribine) should be avoided in patients who may be potential autologous HCT candidates"
+                ], 
+                "Initial plasmapheresis": [
+                    "In patients with symptomatic hyperviscosity, plasmapheresis should first be performed",
+                    {
+                        "Plasmapheresis should also be considered before treatment with rituximab or ofatumumab for asymptomatic Waldenström macroglobulinemia patients with an IgM ≥4000 mg/ dL or who are symptomatic to avoid aggravation of serum viscosity based on rituximab-related IgM flare": ["Rituximab or ofatumumab may also be held in patients with elevated serum IgM levels for initial treatment cycles"]
+                    }, 
+                    "Blood warmers should be used for apheresis if cryoprecipitate or cryoglobulin are present."
+                ], 
+                "Systemic treatment": [
+                    {
+                        "Subcutaneous bortezomib is the preferred method of administration": ["Both weekly and twice-weekly dosing schemas of bortezomib may be appropriate"]
+                    },
+                    "Carfilzomib may be used once or twice weekly and at different doses",
+                    "Rituximab and hyaluronidase human injection for subcutaneous administration may be substituted for rituximab after patients have received the first full dose of rituximab by intravenous infusion.",
+                    {
+                        "Preferred regimens": [
+                            "Bendamustine/rituximab", 
+                            "Bortezomib/dexamethasone/rituximab",
+                            "Ibrutinib ± rituximab",
+                            "Zanubrutinib"
+                        ], 
+                        "Other recommended regimens": [
+                            "Bendamustine", 
+                            "Carfilzomib/rituximab/dexamethasone", 
+                            "Ixazomib/rituximab/dexamethasone",
+                            "Rituximab", 
+                            "Rituximab/cyclophosphamide/dexamethasone", 
+                            "Rituximab/cyclophosphamide/prednisone"
+                        ]
+                    }
+                ]
+            },
+            "Prophylaxis": [
+                "Pneumocystis jiroveci pneumonia (PJP) prophylaxis should be considered for patients receiving bendamustine/rituximab or fludarabine/ cyclophosphamide/rituximab.", 
+                "Administer herpes zoster prophylaxis for all patients treated with proteasome inhibitors and nucleoside analogs.",
+                {
+                    "Prophylactic antiviral therapy with entecavir is recommended for any patient who is hepatitis B surface antigen-positive and receiving antiCD20 therapy": [
+                        "If there is active disease (PCR+), it is considered treatment/management and not prophylactic therapy.",
+                        "In cases of hepatitis B core antibody positivity, prophylactic antiviral therapy is preferred"
+                    ]
+                }
+            ]
+
+        }, 
+        "followup": {
+            "if low risk": ["Monitor every 12 months with complete blood count, Comprehensive Metabolic Panel, serum protein electrophoresis, serum immunoglobulins"],
+            "if intermediate risk": ["Monitor every 6 months with complete blood count, Comprehensive Metabolic Panel, serum protein electrophoresis, serum immunoglobulins"],
+            "If high risk": ["Monitor every 3 months with complete blood count, Comprehensive Metabolic Panel, serum protein electrophoresis, serum immunoglobulins"]
+        }, 
+        "response criteria": {
+            "Complete response": [
+                "IgM in normal range, and disappearance of monoclonal protein by immunofixation",
+                "No histologic evidence of bone marrow involvement, and resolution of any adenopathy/organomegaly (if present at baseline), along with no signs or symptoms attributable to WM.", 
+                "Reconfirmation of the CR status is required by repeat immunofixation studies."
+            ],
+            "Very good partial response": [
+                "A ≥90% reduction of serum IgM and decrease in adenopathy/organomegaly (if present at baseline) on physical examination or on CT scan"
+            ],
+            "Partial response": [
+                "A ≥50% reduction of serum IgM and decrease in adenopathy/organomegaly (if present at baseline) on physical examination or on CT scan"
+            ],
+            "Minor response": [
+                "A ≥25% but <50% reduction of serum IgM",
+                "No new symptoms or signs of active disease"
+            ],
+            "Stable disease": [
+                "A <25% reduction and <25% increase of serum IgM without progression of adenopathy/organomegaly, cytopenias, or clinically significant symptoms due to disease and/or signs of WM"
+            ],
+            "Progressive disease": [
+                "A ≥25% increase in serum IgM by protein confirmed by a second measurement or progression of clinically significant findings due to disease (anemia, thrombocytopenia, leukopenia, bulky adenopathy/ organomegaly) or symptoms (unexplained recurrent fever ≥38.4°C, drenching night sweats, ≥10% body weight loss, or hyperviscosity, neuropathy, symptomatic cryoglobulinemia, or amyloidosis) attributable to WM."
+            ]
+        }
+    }, 
+    "2": {
+        "workup": {
+            "history and physical": [],
+            "imaging": ["Brain and entire spine MRI with gadolinium enhancement"],
+            "Pathology: in certain circumstances": [
+                "Biopsy of affected tissue", 
+                "Concurrent bone marrow aspiration and biopsy for IgH gene rearrangement and MYD88 L265P testing"
+            ],
+            "other": ["Lumbar puncture for cerebrospinal fluid analysis (cytology, multiparameter flow cytometry, PCR for IgH gene rearrangement, PCR for MYD88 L265P)"]
+        }, 
+        "treatment": {
+            "Asymptomatic": ["Observation"],
+            "Symptomatic": {
+                "Preferred Regimens": [
+                    "Ibrutinib", 
+                    "Zanubrutinib" 
+                ],
+                "Other Recommended Regimens": [
+                    "Bendamustine", 
+                    "Cytarabine", 
+                    "Fludarabine", 
+                    "Methotrexate", 
+                    "Intrathecal methotrexate", 
+                    "Radiotherapy"
+                ]
+            }
+        }, 
+        "followup": {} 
+    }
+}

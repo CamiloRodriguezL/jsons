@@ -1,0 +1,189 @@
+{
+    "1": {
+        "workup": {
+            "history and physical": [],
+            "pathology": [
+                {
+                   "skin biopsy on any suspicious lesion": "deep reticular dermis if more than superficial lesion"
+                }, 
+                "if suspicion of nodal disease = regional lymph node exam"
+            ]
+        }, 
+        "treatment": {
+            "surgical": {
+                "curettage and electrodesiccation": [
+                    "excluding terminal hair-bearing areas such as scalp, pubic, axillary regions, and beard areas in males",
+                    "surgical excision if tumor appears to extend beyond the dermis"
+                ], 
+                "standard excision and postoperative margin assessment": [
+                    "tissue rearrangement (flap reconstruction, extensive undermining) should not be undertaken until clear margins are identified (second intention healing, linear repair, or skin graft are acceptable)",
+                    "if there are positive margins = Mohs or other forms of peripheral and deep en face margin assessment or re-excision if clinically feasible or radiation therapy for non-surgical candidates"
+                ]
+            }
+        }, 
+        "followup": [
+            "educate patients in strict sun protection and comprehensive self-examination of the skin",
+            "if regional squamous cell cancer, self-examination of lymph nodes is recommended",
+            "history and physical exam every 3-12 months for 2 years, then every 6-12 months for 3 years, then annually for life",
+            "consider imaging if clinical exam insufficient for following disease" 
+        ]
+    },
+    "2": {
+        "workup": {
+            "history and physical": [],
+            "pathology": [
+                {
+                   "skin biopsy on any suspicious lesion": "deep reticular dermis if more than superficial lesion"
+                }, 
+                "if suspicion of nodal disease = regional lymph node exam as indicated for"
+            ]
+        }, 
+        "treatment": {
+            "surgical": {
+                "mohs or other forms of peripheral and deep en face margin assessment": {
+                    "if positive margins = multidisciplinary consultation to discuss options": [
+                        "re-resect, if feasible",
+                        "radiation therapy ± systemic therapy",
+                        "systemic therapy if curative radiation therapy not feasible"
+                    ],
+                    "if negative margins = if extensive perineural, large, or named nerve involvement, or if other poor prognostic features": [
+                        "recommend multidisciplinary consultation",
+                        "consider adjuvant radiation therapy"
+                    ]
+                },
+                "standard excision with wider surgical margins and postoperative margin assessment, and second intention healing, linear repair or skin graft": [
+                    {
+                        "if positive margins = Mohs or other forms of peripheral and deep en face margin assessment or standard re-excision if peripheral and deep en face margin assessment not feasible": [
+                            {
+                                "if residual disease is present, and further surgery is not feasible, consider multidisciplinary consultation to discuss options": [
+                                    "radiation therapy ± systemic therapy",
+                                    "systemic therapy if curative radiation therapy not feasible"
+                                ]
+                            }
+                        ], 
+                        "if negative margins = if extensive perineural, large, or named nerve involvement, or if other poor prognostic features recommend": [
+                            "multidisciplinary consultation",
+                            "consider adjuvant radiation therapy)"
+                        ]
+                    }
+                ]
+            },
+            "systemic therapy": [
+                {
+                    "systemic therapy if curative radiation therapy not feasible": [
+                        "systemic therapy with or without radiation therapy is recommended for primary and recurrent locally advanced disease in non-surgical candidates, for patients with resected high-risk regional disease, patients with unresectable, inoperable, or incompletely resected disease, and in patients with regional recurrence or distant metastatic disease",
+                        "cisplatin (preferred) or epidermal growth factor receptor (EGFR) inhibitors (cetuximab, erlotinib, gefitinib, panitumumab), cisplatin + 5-fluorouracil (5-FU), and carboplatin ± paclitaxel(useful in certain circumstances)", 
+                        "the systemic therapy options for use alone without radiation therapy are cemiplimab-rwlc and pembrolizumab (preferred if curative radiation therapy or surgery is not feasible for locally advanced, recurrent, or metastatic disease), or carboplatin paclitaxel, and EGFR inhibitors (cetuximab, panitumumab, gefinitib, dacomitinib, erlotinib), capecitabine, cisplatin ± 5- FU, and carboplatin (useful in certain circumstances) if the patients are ineligible for or progressed on checkpoint inhibitors and clinical trials, or other anti-PD-1 inhibitors"
+                    ]
+                }, 
+            "radiation"
+            ] 
+        }, 
+        "followup": [
+            "educate patients in strict sun protection and comprehensive self-examination of the skin",
+            "if regional squamous cell cancer, self-examination of lymph nodes is recommended",
+            "history and physical exam every 3-6 months for 2 years, then every 6-12 months for 3 years, then annually for life",
+            "consider imaging if clinical exam insufficient for following disease"
+        ]
+    },
+    "3": {
+        "workup": {
+            "history and physical": [],
+            "pathology": [
+                {
+                   "skin biopsy on any suspicious lesion": "deep reticular dermis if more than superficial lesion"
+                }, 
+                "suspicion of nodal disease = regional lymph node exam as indicated for"
+            ]
+        }, 
+        "treatment": {
+            "surgical": {
+                "standard excision with wider surgical margins and postoperative margin assessment, and second intention healing, linear repair or skin graft": {
+                    "if positive margins = Mohs or other forms of peripheral and deep en face margin assessment or standard re-excision if peripheral and deep en face margin assessment not feasible": {
+                        "if residual disease is present, and further surgery is not feasible, consider multidisciplinary consultation to discuss options": [
+                            "radiation therapy ± systemic therapy", 
+                            "systemic therapy if curative radiation therapy not feasible"
+                        ]
+                    }, 
+                    "if negative margins = if extensive perineural, large, or named nerve involvement, or if other poor prognostic features recommend": [
+                        "multidisciplinary consultation",
+                        "consider adjuvant radiation therapy)"
+                    ]
+                }
+            }, 
+            "radiation therapy + systemic therapy": {
+                "systemic therapy if curative radiation therapy not feasible": [
+                    "cisplatin (preferred) or epidermal growth factor receptor (EGFR) inhibitors (cetuximab, erlotinib, gefitinib, panitumumab), cisplatin + 5-fluorouracil (5-FU), and carboplatin ± paclitaxel(useful in certain circumstances)", 
+                    "the systemic therapy options for use alone without radiation therapy are cemiplimab-rwlc and pembrolizumab (preferred if curative radiation therapy or surgery is not feasible for locally advanced, recurrent, or metastatic disease), or carboplatin + paclitaxel, and EGFR inhibitors (cetuximab, panitumumab gefinitib, dacomitinib, erlotinib), capecitabine, cisplatin ± 5-FU,and carboplatin (useful in certain circumstances) if the patients are ineligible for or progressed on checkpoint inhibitors and clinical trials, or other anti-PD-1 inhibitors"
+                ]
+            }
+        }, 
+        "followup": [
+            "educate patients in strict sun protection and comprehensive self-examination of the skin",
+            "if regional squamous cell cancer, self-examination of lymph nodes is recommended",
+            "history and physical exam every 3-6 months for 2 years, then every 6-12 months for 3 years, then annually for life",
+            "consider imaging if clinical exam insufficient for following disease"
+        ]
+    }, 
+    "4": {
+        "workup": {
+            "history and physical": [],
+            "pathology": [
+                {
+                   "skin biopsy on any suspicious lesion": "deep reticular dermis if more than superficial lesion"
+                }, 
+                "suspicion of nodal disease = regional lymph node exam as indicated for"
+            ]
+        }, 
+        "treatment": {
+            "systemic therapy": [
+                "topical fluorouracil (5-FU), topical imiquimod, photodynamic therapy, and cryotherapy",
+                "photodynamic therapy with photosensitizing agents including methyl aminolevulinate (MAL) and 5-aminolevulinic acid (ALA)" 
+            ]
+        }, 
+        "followup": [
+            "educate patients in strict sun protection and comprehensive self-examination of the skin",
+            "if regional squamous cell cancer, self-examination of lymph nodes is recommended",
+            "history and physical exam every 2-3 months for 1 year, then every 4-6 months for 3 years, then every 6-12 months for life",
+            "consider imaging if clinical exam insufficient for following disease"
+        ]
+    },
+    "5": {
+        "workup": {
+            "pathology": {
+                "the presence of palpable regional lymph nodes or suspicious lymph nodes identified by imaging studies should prompt a fine-needle aspiration or core biopsy of suspicious nodes": [
+                    "if initial pathology results are negative = re-evaluation by clinical exam, CT with contrast imaging of the nodal basin, and/or pathology on additional lymph nodes specimens taken by repeat fine-needle aspiration, core biopsy, or open biopsy of the suspicious nods", 
+                    "for patients with pathologic evidence of lymph node disease, preoperative imaging of the nodal basin by CT with contrast is recommended to determine the size, number, and location of involved nodes", 
+                    "PET/CT of the nodal basin can be useful for radiation therapy planning", 
+                    "in addition, chest/abdominal/pelvic CT with contrast or PET/CT are recommended as clinically indicated to rule out distant metastatic disease"
+                ]
+            }
+        }, 
+        "treatment": [
+            "radiation therapy or chemotherapy", 
+            {
+                "surgical": {
+                    "excision of the primary tumor and regional lymph node dissection for all surgical candidates": [
+                        "patients treated with dissection of nodes in the trunk and extremities should consider adjuvant radiation therapy of the nodal bed, especially if multiple nodes are involved or if extracapsular extension is present", 
+                        "for patients with nodal metastasis to the head and neck, the extent of surgery should depend on the number, location, and size of affected nodes", 
+                        "postoperative adjuvant treatment should depend on the pathologic findings after surgery (extent of resection, number of positive nodes, and presence or absence of extracapsular extension)", 
+                        "patients with extracapsular extension or incompletely excised nodes should receive adjuvant radiation therapy and also consider concurrent systemic therapy depending on individual toxicity tolerance", 
+                        {
+                            "patients with inoperable nodal disease should be treated with radiation therapy of the nodal bed and consider concurrent systemic therapy": ["multidisciplinary consultation is recommended for these cases and should consider the systemic therapies used to treat head and neck squamous cell carcinomas"]
+                        }
+                    ]
+                }
+            }, 
+            "for symptomatic sites, palliative radiation therapy or surgery should be considered", 
+            "for solitary or multiple ipsilateral nodes = excision or primary tumor and ipsilateral neck dissection as indicated", 
+            "for bilateral nodes = excision of primary tumor and bilateral neck dissection as indicated", 
+            "if parotid nodes involved = excision of primary tumor and superficial parotidectomy and ipsilateral neck dissection as indicated"
+        ], 
+        "followup": {
+            "patient education": [
+                "sun protection",
+                "self examination of skin"
+            ]
+        }
+    }
+}

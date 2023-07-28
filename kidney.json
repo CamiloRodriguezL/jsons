@@ -1,0 +1,254 @@
+{
+    "1": {
+        "workup": {
+            "imaging": [
+                "CT of the abdomen with or without pelvic CT or MRI",
+                "Chest CT or chest X-ray",
+                "Bone scan and brain MRI (If clinically indicated )"
+            ], 
+            "genetic evaluation": ["If multiple renal masses, ≤46 y, or family history"], 
+            "others": [
+                "History and physical examination",
+                "Complete Blood count (CBC)",
+                "Comprehensive metabolic panel (serum corrected calcium, serum creatinine, liver function studies, and urinalysis)",
+                "Lactate dehydrogenase (LDH)",
+                "Urinalysis",
+                "Urine cytology, ureteroscopy or percutaneous biopsy (If suspicion of urothelial carcinoma)"
+            ]
+        }, 
+        "treatment": {
+            "primary treatment": [
+                "Partial nephrectomy", 
+                "Total nephrectomy when tumors are not adequate for partial resection due to size and location",
+                "Active surveillance for patients with decreased life expectancy or extensive comorbidities", 
+                "Small masses should be monitored and treated according to progression" 
+            ]
+        }, 
+        "followup": {
+            "active surveillance for T1a": [
+                "Annual history", 
+                "Annual physical examination",
+                "Annual laboratory tests as clinically indicated", 
+                "Abdominal imaging with CT o MRI with contrast within 6 months of surveillance initiation with subsequent annual imaging with Ct, MRI or ultrasound (US)", 
+                "Annual chest x-ray or CT as clinically indicated", 
+                "Repeat chest imaging if intervention is being contemplated",
+                "Consider renal mass biopsy at initiation of active surveillance or at follow-up"  
+            ], 
+            "ablative surgery for T1a": [
+                "Annual history", 
+                "Annual physical examination",
+                "Annual laboratory tests as clinically indicated", 
+                "Abdominal CT or MRI with and without contrast at 1 through 6 months to evaluate treatment response followed by yearly abdominal imaging for 5 year, if contrast is not tolerated, MRI is preferred", 
+                "Annual chest x-ray or CT for 5 years on patients with biopsy-proven low-risk RCC, non-diagnostic biopsies or no prior biopsy" 
+            ], 
+            "partial or total nephrectomy": [
+                "Annual history", 
+                "Annual physical examination",
+                "Annual laboratory as clinically indicated", 
+                "Baseline abdominal with CT or MRI imaging with within 3-12 months following renal surgery, followed by annual abdominal imaging for 5 years", 
+                "Annual chest x-ray or CT for at least 5 years", 
+                "More rigorous imaging schedules can be considered if positive margins or adverse pathologic features are found" 
+            ]
+        }
+    }, 
+    "2": {
+        "workup": {
+            "imaging": [
+                "CT of the abdomen with or without pelvic CT or MRI",
+                "Chest CT or chest X-ray",
+                "Bone scan and brain MRI (If clinically indicated)"
+            ], 
+            "genetic evaluation": ["If multiple renal masses, ≤46 y, or family history"], 
+            "others": [
+                "History and physical examination",
+                "Complete Blood count (CBC)",
+                "Comprehensive metabolic panel (serum corrected calcium, serum creatinine, liver function studies, and urinalysis)",
+                "Lactate dehydrogenase (LDH)",
+                "Urinalysis", 
+                "Urine cytology, ureteroscopy or percutaneous biopsy (If suspicion of urothelial carcinoma)"                
+            ]
+        }, 
+        "treatment": {
+            "primary treatment": [
+                "Partial nephrectomy",
+                "Total nephrectomy", 
+                "Select patients may be managed by active surveillance" 
+            ]
+        }, 
+        "followup": {
+            "Ablative surgery for T1b": [
+                "Annual history", 
+                "Annual physical examination",
+                "Annual laboratory tests as clinically indicated", 
+                "Abdominal CT or MRI with and without contrast at 1 through 6 months to evaluate treatment response followed by yearly abdominal imaging for 5 year, if contrast is not tolerated, MRI is preferred", 
+                "Annual chest x-ray or CT for 5 years on patients with biopsy-proven low-risk RCC, non-diagnostic biopsies or no prior biopsy" 
+            ], 
+            "Partial or total nephrectomy": [
+                "Annual history", 
+                "Annual physical examination",
+                "Annual laboratory as clinically indicated", 
+                "Baseline abdominal with CT or MRI imaging with within 3-12 months following renal surgery, followed by annual abdominal imaging for 5 years", 
+                "Annual chest x-ray or CT for at least 5 years", 
+                "More rigorous imaging schedules can be considered if positive margins or adverse pathologic features are found" 
+            ]
+        }
+    }, 
+    "3": {
+        "workup": {
+            "imaging": [
+                "CT of the abdomen with or without pelvic CT or MRI",
+                "Chest CT or chest X-ray",
+                "Bone scan and brain MRI (If clinically indicated)"                
+            ], 
+            "genetic evaluation": ["If multiple renal masses, ≤46 y, or family history"], 
+            "others": [
+                "History and physical examination",
+                "Complete Blood count (CBC)",
+                "Comprehensive metabolic panel (serum corrected calcium, serum creatinine, liver function studies, and urinalysis)",
+                "Lactate dehydrogenase (LDH)",
+                "Urinalysis",
+                "Urine cytology, ureteroscopy or percutaneous biopsy (If suspicion of urothelial carcinoma)"                
+            ]
+        }, 
+        "treatment": {
+            "primary treatment": [
+                "Radical nephrectomy",
+                "Partial nephrectomy is not recommended for patients with locally advanced tumors unless the procedure is technically feasible such as those with small, polar unilateral tumors"
+            ], 
+            "adjuvant treatment": {
+                "Pembrolizumab is recommended for": ["Patients with stage II ccRCC with grade IV sarcomatoid features"]
+            }
+        }, 
+        "followup": {
+            "stage II": {
+                "Partial or total nephrectomy": [
+                    "Annual history", 
+                    "Annual physical examination",
+                    "Annual laboratory as clinically indicated", 
+                    "Baseline abdominal with CT o MRI imaging with within every 6 months for 2 years, then annually for 5 years", 
+                    "Annual chest x-ray or CT for at least 5 years", 
+                    "More rigorous imaging schedules can be considered if positive margins or adverse pathologic features are found" 
+                ]
+            }, 
+            "stage III": [
+                "History every 3 to 6 months for 3 years, then annually for 5 years",
+                "Physical examination every 3-6 months for 3 years then annually for 5 years", 
+                "Comprehensive metabolic panel and other tests every 3-6 months for 3 years, then annually up to 5 years", 
+                "Baseline abdominal CT or MRI imaging within 3-6 months following surgery, then every 3-6 months for 3 years, then annually for 5 years", 
+                "If symptoms warrant imaging and site-specific imaging may be performed beyond 5 years" 
+            ]
+        }
+    }, 
+    "4": {
+        "workup": {
+            "imaging": [
+                "CT of the abdomen with or without pelvic CT or MRI",
+                "Chest CT or chest X-ray",
+                "Bone scan and brain MRI (If clinically indicated)"                
+            ], 
+            "genetic evaluation": ["If multiple renal masses, ≤46 y, or family history"], 
+            "others": [
+                "History and physical examination",
+                "Complete Blood count (CBC)",
+                "Comprehensive metabolic panel (serum corrected calcium, serum creatinine, liver function studies, and urinalysis)",
+                "Lactate dehydrogenase (LDH)",
+                "Urinalysis",
+                "Urine cytology, ureteroscopy or percutaneous biopsy (If suspicion of urothelial carcinoma)"
+            ]
+        }, 
+        "treatment": {
+            "surgical": [
+                "Cytoreductive nephrectomy is recommended for patients with potentially surgically resectable primary tumors prior to systemic therapy", 
+                "Palliative nephrectomy is recommended for patients with hematuria or other symptoms related to the primary tumor", 
+                "Patients with potentially resectable primary RCC and oligometastatic sites are candidates for nephrectomy and metastasectomy",
+                {
+                    "Ablative techniques in patients who are not candidates for metastasectomy could be considered in the following patients": [
+                        "Patient who initially presents with primary RCC and oligometastatic sites", 
+                        "Patients who develop oligometastasis after a prolonged disease-free interval from nephrectomy", 
+                        "Oligometastasic sites that are candidates: lung, bone, brain" 
+                    ]
+                }
+            ], 
+            "systemic": {
+                "Preferred regimens ccRCC": [
+                    "Axitinib/Pembrolizumab combination is a category 1 preferred option for all risk groups",
+                    "Cabozantinib/Nivolumab combination is a category 1 preferred option for all risk groups",
+                    "Lenvatinib/Pembrolizumab combination is a category 1 preferred option for all risk groups", 
+                    "Ipilimumab/Nivolumab combination is a category 1 preferred option for poor and intermediate risk patients", 
+                    "Cabozantinib is a category 2A preferred treatment for poor and intermediate risk patients"
+                ], 
+                "Preferred regimens nccRCC": [
+                    "Cabozantinib is a category 2A preferred option", 
+                    "Sunitinib is a category 2A preferred option"
+                ]
+            }
+        }, 
+        "followup": [
+            "History every 6 to 16 weeks for patients receiving systemic therapy", 
+            "Physical examination every 6 to 16 weeks for patients receiving systemic therapy",
+            "Imaging tests with CT or MRI should be performed prior to initiating systemic therapy, followed by imaging studies every 6 to 16 weeks according to patient status and clinician criteria",
+            "Annual surveillance scans with CT or MRI can be considered according to clinician criteria", 
+            "MRI or CT of head at baseline is recommended as clinically indicated with annual surveillance scan according to clinician criteria", 
+            "Additional MRI of spine",
+            "Additional bone scans", 
+            {
+                "Long term follow-up (beyond 5 years)": [
+                    "Long term follow-up is considered according to patient performance and preferences", 
+                    "Follow up may be performed by primary care physician if appropriate", 
+                    "Annual history and physical examination", 
+                    "Annual laboratory tests to evaluate renal function and glomerular filtration rate", 
+                    "Abdominal imaging may continue with increasing intervals",
+                    "Chest imaging may be considered with increasing intervals"
+                ]
+            }
+        ]
+    }, 
+    "5": {
+        "workup": {
+            "imaging": [
+                "CT of the abdomen with or without pelvic CT or MRI",
+                "Chest CT or chest X-ray",
+                "Bone scan and brain MRI (If clinically indicated)"
+            ], 
+            "genetic evaluation": ["If multiple renal masses, ≤46 y, or family history"], 
+            "others": [
+                "History and physical examination",
+                "Complete Blood count (CBC)",
+                "Comprehensive metabolic panel (serum corrected calcium, serum creatinine, liver function studies, and urinalysis)",
+                "Lactate dehydrogenase (LDH)",
+                "Urinalysis",
+                "Urine cytology, ureteroscopy or percutaneous biopsy (If suspicion of urothelial carcinoma)"
+                
+            ]
+        }, 
+        "treatment": {
+            "surgical": [
+                "Patients with BHDS, HPRC and TSC may benefit from nephron sparing surgeries or ablative therapies", 
+                "Patients with HLRCC should undergo total or radical nephrectomy", 
+                 {
+                    "Options for patients with PGL/PCC vary by tumor size and histology": [
+                        "Smaller, less aggressive tumors are eligible for partial nephrectomy",
+                        "Larger, more aggressive tumors are eligible for total nephrectomy"
+                    ], 
+                    "Options for VHL disease vary by tumor size": [
+                        "Tumors approaching 3cm in diameter should undergo partial nephrectomy or ablative therapy"
+                    ]
+                 }   
+            ], 
+            "systemic": [
+                "Everolimus", 
+                "Erlotinib/bevacizumab combination", 
+                "Pazopanib"
+            ]
+        }, 
+        "followup": [
+            "Females of childbearing age who are planning conception should consider renal imaging prior to pregnancy.",
+            "For BAP1-TPDS Abdominal MRI (preferred) or CT with and without IV contrast every 2 years starting at age 30", 
+            "For BHDS Abdominal MRI (preferred) or CT with and without IV contrast every 3 years starting at age 20", 
+            "For HLRCC Abdominal MRI (preferred) or CT with and without IV contrast every 1 to 2 years starting at age 30", 
+            "For PGL/PCC Abdominal MRI (preferred) or CT with and without IV contrast every 4 to 6 years starting at age 12", 
+            "For TSC Abdominal MRI (preferred) or CT with and without IV contrast every 3 to 5 years starting at age 12", 
+            "For VHL Abdominal MRI (preferred) or CT with and without IV contrast to assess kidneys, pancreas, and adrenals every 2 years starting at age 15" 
+        ]
+    }
+}

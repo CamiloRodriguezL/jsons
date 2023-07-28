@@ -1,0 +1,55 @@
+{
+    "1": {
+        "workup": {
+            "initial": [
+                "Perform history and physical examination",
+                "Perform skin biopsy, preferably by punch or incision that samples the subcutaneous layer",
+                "When biopsy is indeterminate or negative with clinical suspicion, re-biopsy is recommended",
+                "Preoperative MRI with contrast"
+            ], 
+            "additional": [
+                "Once diagnosis is confirmed a complete skin examination should be performed",
+                "If FS transformation is found, multidisciplinary consultation is recommended", 
+                "Large or recurrent DFSP should receive multidisciplinary consultation" 
+            ]
+        }, 
+        "treatment": {
+            "surgical": [
+                "Mohs micrographic surgery is recommended over wide local excision (WLE)",
+                "Peripheral and deep en fase margin assessment (PDEMA) is recommended",
+                "En face sectioning is preferred to prevent missing small foci of tumor",
+                "When anatomic structures at the deep margin such as major vessels, nerves and bone impede complete histologic evaluation of the marginal surface, PDEMA and Mohs should be used to evaluate as much of the marginal surface as possible",
+                "When PDEMA is unavailable, WLE can be considered",
+                "Wide undermining is discouraged prior to confirmation of clear margins",
+                "If initial surgery yields positive margins, re-resection is recommended",
+                "Complete histologic assessment can be achieved with Mohs or modified Mohs surgery",
+                "Complete histologic assessment can be achieved with traditional WLE with wider margins",
+                "Any reconstruction involving extensive undermining should be avoided",
+                "Tissue rearrangement should be delayed until negative histologic margins are verified",
+                "If there is concern that the surgical margins are not clear when Mohs or PDEMA are unavailable, split thickness skin grafting should be considered"
+            ], 
+            "radiation": [
+                "If a negative margin is achieved, radiation therapy is not recommended",
+                "When Mohs or PDEMA are not used, radiation therapy can be considered if margins are less than 1 cm",
+                "In patients with positive margins who are not candidates for further resection and have not had any adjuvant treatment before, radiation therapy can be considered",
+                "Patient with metastasis  RT is recommended when further resection is not feasible, and RT has not been given previously",
+                "Patient with recurrence  RT is recommended when further resection is not feasible, and RT has not been given previously"
+            ], 
+            "systemic neoadjuvant therapy": ["Imatinib mesylate may be recommended for patients in whom resection with negative margins may result in unacceptable functional or cosmetic outcomes"]
+        }, 
+        "followup": [
+            "Follow-up of the primary site every 6 to 12 months",
+            "Re-biopsy of any suspicious lesions found during follow-up",
+            "History every 6-12 months",
+            "Physical evaluation every 6-12 months",
+            "Patient education about regular self-examination", 
+            {
+                "imaging": [
+                    "Patients with high-risk features may benefit from additional imaging studies",
+                    "Patients with extensive surgery may benefit from additional imaging studies",
+                    "MRI with contrast may be helpful to detect early recurrence when physical examination is insufficient or unreliable"
+                ]
+            }
+        ]
+    }
+}
