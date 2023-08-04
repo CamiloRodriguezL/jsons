@@ -1,0 +1,493 @@
+{
+    "1": {
+        "workup": {
+            "history and physical": [],
+            "imaging": ["MRI and/or CT"],
+            "pathology": [
+                "Percutaneous core needle biopsy", 
+                "Image-guided needle if its a deep-seated tumor",
+                "Core needle biopsy after adequate imaging", 
+                "Open biopsy if percutaneous core needle biopsies fail to lead to and adequate diagnosis and if there's an experienced surgeon"
+            ],
+            "other": {
+                "Ancillary techniques": {
+                    "Molecular genetic testing": [
+                        "Fluorescence in situ hybridization (FISH)",
+                        "Polymerase chain reaction (PCR)"
+                    ],
+                    "Immunohistochemistry": ["Cytogenetics"]
+                }
+            }
+        }, 
+        "treatment": {
+            "surgical": [
+                "Surgical wide resection with appropriately negative margins",
+                "Re-resection to obtain negative margins", 
+                "For extremity sarcomas, the goal is to preserve the functional limb"
+            ],
+            "radiation": [
+                "Radiotherapy prior to surgery to enable effective surgical resection",
+                "Postoperative radiotherapy if resections with close soft tissue margins (<1 cm) or a microscopically positive margin on bone, major bone vessels, or a nerve.",  
+                "EBRT (external beam radiotherapy) 50-50.4 Gy;  1.8-2 Gy per fraction",
+                {
+                    "Brachytherapy ± EBRT": [
+                        "Positive margins: Low dose-rate (16–20 Gy) or high dose-rate equivalent brachytherapy (14–16 Gy) + 50 Gy EBRT", 
+                        "Negative margins: Low dose-rate (45 Gy) or high dose-rate equivalent brachytherapy (36 Gy in 3.6 Gy BID over 10 fractions in 5 days)" 
+                    ]
+                },
+                "If adjuvant boost radiation for a positive margin is felt to be appropriate, an additional 14–20 Gy can be considered with fractionated EBRT or brachytherapy.",
+                "A dose reduction to 36 Gy for myxoid liposarcoma can be considered.",
+                "Radiotherapy if unresectable primary disease"
+            ],
+            "chemotherapy": ["Chemoradiation if resectable with adverse functional outcomes or unresectable primary disease"],
+            "systemic": [
+                "If resectable with adverse functional outcomes or unresectable primary disease",
+                {
+                    "Adjuvant systemic therapy": [
+                        "AIM (doxorubicin, ifosfamide, mesna)",
+                        "Ifosfamide, epirubicin, mesna"
+                    ]
+                }
+            ],
+            "observation": ["For stage 1A tumors"]
+        }, 
+        "followup": [
+            "Evaluation for rehabilitation",
+            "History and physical every 3-6 months for 2-3 years, then annually",
+            "Consider chest imaging",
+            "Consider obtaining adjuvant baseline MRI",
+            "Imaging of primary site based on estimated risk of locoregional recurrence",
+            "Physical Medicine and Rehabilitation" 
+        ]
+    },
+    "2": {
+        "workup": {
+            "history and physical": [],
+            "imaging": ["MRI and/or CT"],
+            "pathology": [
+                "Percutaneous core needle biopsy", 
+                "Image-guided needle if its a deep-seated tumor",
+                "Core needle biopsy after adequate imaging", 
+                "Open biopsy if percutaneous core needle biopsies fail to lead to and adequate diagnosis and if there's an experienced surgeon" 
+            ],
+            "other": {
+                "Ancillary techniques": {
+                    "Molecular genetic testing": [
+                        "Fluorescence in situ hybridization (FISH)",
+                        "Polymerase chain reaction (PCR)"                        
+                    ],
+                    "Immunohistochemistry": ["Cytogenetics"]
+                }
+            }
+        }, 
+        "treatment": {
+            "surgical": [
+                "Surgical wide resection with appropriately negative margins",
+                "Re-resection to obtain negative margins", 
+                "For extremity sarcomas, the goal is to preserve the functional limb" 
+            ],
+            "radiation": [
+                "Neoadjuvant radiotherapy", 
+                "Postoperative radiotherapy", 
+                "EBRT (external beam radiotherapy) 50-50.4 Gy;  1.8-2 Gy per fraction",
+                {
+                    "Brachytherapy ± EBRT": [
+                        "Positive margins: Low dose-rate (16–20 Gy) or high dose-rate equivalent brachytherapy (14–16 Gy) + 50 Gy EBRT", 
+                        "Negative margins: Low dose-rate (45 Gy) or high dose-rate equivalent brachytherapy (36 Gy in 3.6 Gy BID over 10 fractions in 5 days)"
+                    ]
+                },
+                "If adjuvant boost radiation for a positive margin is felt to be appropriate, an additional 14–20 Gy can be considered with fractionated EBRT or brachytherapy.",
+                "A dose reduction to 36 Gy for myxoid liposarcoma can be considered.",
+                "Radiotherapy if unresectable primary disease"
+            ],
+            "chemotherapy": ["Chemoradiation if resectable with adverse functional outcomes or unresectable primary disease"],
+            "systemic": [
+                "If resectable with adverse functional outcomes or unresectable primary disease",
+                {
+                    "Adjuvant systemic therapy": [
+                        "AIM (doxorubicin, ifosfamide, mesna)",
+                        "Ifosfamide, epirubicin, mesna" 
+                    ]
+                } 
+            ],
+            "observation": [true]
+        }, 
+        "followup": [
+            "Evaluation for rehabilitation",
+            "History and physical every 3-6 months for 2-3 years, then every 6 months for next 2 years, then annually",
+            "Chest imaging",
+            "Obtain end-of-treatment and periodic imaging of primary site based on estimated risk of locoregional recurrence"
+        ]
+    },
+    "3": {
+        "workup": {
+            "history and physical": [],
+            "imaging": ["MRI and/or CT"],
+            "pathology": [
+                "Percutaneous core needle biopsy", 
+                "Image-guided needle if its a deep-seated tumor",
+                "Core needle biopsy after adequate imaging", 
+                "Open biopsy if percutaneous core needle biopsies fail to lead to and adequate diagnosis and if there's an experienced surgeon" 
+            ],
+            "other": {
+                "Ancillary techniques": {
+                    "Molecular genetic testing": [
+                        "Fluorescence in situ hybridization (FISH)",
+                        "Polymerase chain reaction (PCR)"                        
+                    ],
+                    "Immunohistochemistry": ["Cytogenetics"]
+                }
+            }
+        }, 
+        "treatment": {
+            "surgical": [
+                "Surgical wide resection with appropriately negative margins",
+                "Re-resection to obtain negative margins", 
+                "For extremity sarcomas, the goal is to preserve the functional limb" 
+            ],
+            "radiation": [
+                "Postoperative radiotherapy", 
+                "Neoadjuvant therapy", 
+                "Radiotherapy + adjuvant systemic therapy",
+                "EBRT (external beam radiotherapy) 50-50.4 Gy;  1.8-2 Gy per fraction",
+                {
+                    "Brachytherapy ± EBRT": [
+                        "Positive margins: Low dose-rate (16–20 Gy) or high dose-rate equivalent brachytherapy (14–16 Gy) + 50 Gy EBRT",
+                        "Negative margins: Low dose-rate (45 Gy) or high dose-rate equivalent brachytherapy (36 Gy in 3.6 Gy BID over 10 fractions in 5 days)" 
+                    ]
+                },
+                "If adjuvant boost radiation for a positive margin is felt to be appropriate, an additional 14–20 Gy can be considered with fractionated EBRT or brachytherapy.",
+                "A dose reduction to 36 Gy for myxoid liposarcoma can be considered.",
+                "Radiotherapy if unresectable primary disease"
+            ],
+            "chemotherapy": ["Chemoradiation if resectable with adverse functional outcomes or unresectable primary disease"],
+            "systemic": [
+                "If resectable with adverse functional outcomes or unresectable primary disease", 
+                "Neoadjuvant systemic therapy/",
+                {
+                    "Adjuvant systemic therapy": [
+                        "AIM (doxorubicin, ifosfamide, mesna)",
+                        "Ifosfamide, epirubicin, mesna" 
+                    ]
+                }               
+            ]
+        }, 
+        "followup": [
+            "Evaluation for rehabilitation",
+            "History and physical every 3-6 months for 2-3 years, then every 6 months for next 2 years, then annually", 
+            "Chest imaging",
+            "Obtain end-of-treatment and periodic imaging of primary site based on estimated risk of locoregional recurrence"
+        ]
+    },
+    "4": {
+        "workup": {
+            "history and physical": [],
+            "imaging": ["MRI and/or CT"],
+            "pathology": [
+                "Percutaneous core needle biopsy", 
+                "Image-guided needle if its a deep-seated tumor",
+                "Core needle biopsy after adequate imaging", 
+                "Open biopsy if percutaneous core needle biopsies fail to lead to and adequate diagnosis and if there's an experienced surgeon"
+            ],
+            "other": {
+                "Ancillary techniques": {
+                    "Molecular genetic testing": [
+                        "Fluorescence in situ hybridization (FISH)",
+                        "Polymerase chain reaction (PCR)"                        
+                    ],
+                    "Immunohistochemistry": ["Cytogenetics"]
+                }
+            }
+        }, 
+        "treatment": {
+            "primary": {
+                "surgical": [
+                    "Surgical wide resection with appropriately negative margins",
+                    "Re-resection to obtain negative margins", 
+                    "For extremity sarcomas, the goal is to preserve the functional limb"
+                ],
+                "radiation": [
+                    "Postoperative radiotherapy", 
+                    "Neoadjuvant therapy", 
+                    "Radiotherapy + adjuvant systemic therapy",
+                    "EBRT (external beam radiotherapy) 50-50.4 Gy;  1.8-2 Gy per fraction",
+                    {
+                        "Brachytherapy ± EBRT": [
+                            "Positive margins: Low dose-rate (16–20 Gy) or high dose-rate equivalent brachytherapy (14–16 Gy) + 50 Gy EBRT", 
+                            "Negative margins: Low dose-rate (45 Gy) or high dose-rate equivalent brachytherapy (36 Gy in 3.6 Gy BID over 10 fractions in 5 days)" 
+                        ]
+                    },
+                    "If adjuvant boost radiation for a positive margin is felt to be appropriate, an additional 14–20 Gy can be considered with fractionated EBRT or brachytherapy.",
+                    "A dose reduction to 36 Gy for myxoid liposarcoma can be considered.",
+                    "Radiotherapy if unresectable primary disease"
+                ],
+                "chemotherapy": ["Chemoradiation if resectable with adverse functional outcomes or unresectable primary disease"],
+                "systemic": [
+                    "If resectable with adverse functional outcomes or unresectable primary disease",
+                    "Neoadjuvant systemic therap",
+                    {
+                        "Adjuvant systemic therapy": [
+                            "AIM (doxorubicin, ifosfamide, mesna)",
+                            "Ifosfamide, epirubicin, mesna" 
+                        ]
+                    }
+                ]
+            },
+            "Treatment if metastasis of a single organ and limited bulk that are amenable to local therapy": {
+                "systemic": {
+                    "Preferred regimens": {
+                        "Anthracycline-based regimens": [
+                            "Doxorubicin",
+                            "Epirubicin",
+                            "Liposomal doxorubicin",
+                            "AD (doxorubicin, dacarbazine)",
+                            "AIM",
+                            "Ifosfamide, epirubicin, mesna"
+                        ]
+                    },
+                    "Other recommended regimens": {
+                        "Gemcitabine- based regimens": [
+                            "Gemcitabine and docetaxel",
+                            "Gemcitabine and vinorelbine",
+                            "Gemcitabine and dacarbazine",
+                            "Gemcitabine and pazopanib" 
+                        ]
+                    }
+                },
+                "surgery": [
+                    "Metastasectomy",
+                    "Ablation procedures"
+                ],
+                "radiation": [
+                    "Radiotherapy",
+                    "SBRT" 
+                ],
+                "other": ["Embolization procedures (no-lung metastases)"],
+                "observation": [true]
+            }
+        }, 
+        "followup": [
+            "Evaluation for rehabilitation", 
+            "History and physical every 2–6 months for 2–3 years, then every 6 months for next 2 years, then annually, if patient remains free of disease recurrence", 
+            "Imaging of chest and other known sites of metastatic disease",
+            "Consider obtaining adjuvant baseline and periodic imaging of primary site based on estimated risk of locoregional recurrence"
+        ]
+    },
+    "5": {
+        "workup": {
+            "history and physical": [],
+            "imaging": ["MRI and/or CT"],
+            "pathology": [
+                "Percutaneous core needle biopsy", 
+                "Image-guided needle if its a deep-seated tumor",
+                "Core needle biopsy after adequate imaging", 
+                "Open biopsy if percutaneous core needle biopsies fail to lead to and adequate diagnosis and if there's an experienced surgeon" 
+            ],
+            "other": {
+                "Ancillary techniques": {
+                    "Molecular genetic testing": [
+                        "Fluorescence in situ hybridization (FISH)",
+                        "Polymerase chain reaction (PCR)"
+                    ],
+                    "Immunohistochemistry": ["Cytogenetics"]
+                } 
+            }
+        }, 
+        "palliative treatment": {
+            "systemic": {
+                "Preferred regimens": {
+                    "Anthracycline-based regimens": [
+                        "Doxorubicin",
+                        "Epirubicin",
+                        "Liposomal doxorubicin",
+                        "AD (doxorubicin, dacarbazine)",
+                        "AIM",
+                        "Ifosfamide, epirubicin, mesna"
+                    ]
+                },
+                "Other recommended regimens": {
+                    "Gemcitabine- based regimens": [
+                        "Gemcitabine and docetaxel",
+                        "Gemcitabine and vinorelbine",
+                        "Gemcitabine and dacarbazine",
+                        "Gemcitabine and pazopanib" 
+                    ]
+                }
+            },
+            "surgical": [
+                "Ablation procedures"
+            ],
+            "radiation": [
+                "RT/SBRT"
+            ],
+            "observation": [true],
+            "others": [
+                "Supportive care",
+                "Embolization procedures (no-lung metastases)"
+            ]
+        }, 
+        "followup": [
+            "individualized to the patient's clinical situation", 
+            "Should include imaging" 
+        ]
+    },
+    "6": {
+        "workup": {
+            "history and physical": [],
+            "imaging": [
+                "CT (preferred) or MRI", 
+                "Consider PET/CT"
+            ],
+            "pathology": ["Image-guided core needle biopsy"],
+            "other": ["Genetic assessment for patients with personal/family history suggestive of other cancer predisposition syndromes"]
+        }, 
+        "treatment": [
+            "Regional node dissection for nodal involvement", 
+            "RT",
+            "Systemic therapy"
+        ], 
+        "followup": ["Follow up according to the stage, individualized"]
+    },
+    "7": {
+        "workup": {
+            "history and physical": [],
+            "imaging": [
+                "CT (preferred) or MRI", 
+                "Consider PET/CT"
+            ],
+            "pathology": ["Image-guided core needle biopsy"],
+            "other": ["Genetic assessment for patients with personal/family history suggestive of other cancer predisposition syndromes"]
+        }, 
+        "treatment": {
+            "surgical": [
+                "Surgery to obtain oncologically appropriate margins"
+            ],
+            "radiation": [
+                "Neoadjuvant therapy",
+                "Radiotherapy for tumors at high risk for local recurrence"
+            ],
+            "systemic": [
+                "Neoadjuvant systemic therapy if high risk for metastatic disease"
+            ]
+        }, 
+        "followup": ["Physical examination with imaging every 3–6 months for 2–3 years, then every 6 months for next 2 years, then annually"]
+    },
+    "8": {
+        "workup": {
+            "history and physical": [],
+            "imaging": [
+                "CT (preferred) or MRI", 
+                "Consider PET/CT"
+            ],
+            "pathology": ["Image-guided core needle biopsy"],
+            "other": ["Genetic assessment for patients with personal/family history suggestive of other cancer predisposition syndromes"]
+        }, 
+        "treatment": {
+            "surgical": [
+                "Surgery for symptom control"
+            ],
+            "radiation": [
+                "Palliative radiotherapy"
+            ],
+            "other": ["Palliative or best supportive care"],
+            "systemic": [
+                "Systemic therapy"
+            ],
+            "observation": ["If asymptomatic and indolent tumor biology"]
+        }, 
+        "followup": ["Physical examination with imaging every 3–6 months for 2–3 years, then every 6 months for next 2 years, then annually"]
+    },
+    "9": {
+        "workup": {
+            "history and physical": [],
+            "imaging": [
+                "CT (preferred) or MRI", 
+                "Consider PET/CT"
+            ],
+            "pathology": ["Image-guided core needle biopsy"],
+            "other": ["Genetic assessment for patients with personal/family history suggestive of other cancer predisposition syndromes"]
+        }, 
+        "treatment": {
+            "surgical": [
+                "Surgery to obtain oncologically appropriate margins"
+            ],
+            "radiation": [
+                "Neoadjuvant therapy if not previously given for the primary tumor"
+            ],
+            "systemic": [
+                "Neoadjuvant therapy"
+            ]
+        }, 
+        "followup": ["Physical examination with imaging every 3–6 months for 2–3 years, then every 6 months for next 2 years, then annually"]
+    },
+    "10": {
+        "workup": {
+            "history and physical": [],
+            "imaging": ["Appropriate imaging of primary site with CT or MRI as clinically indicated"],
+            "pathology": ["Biopsy"],
+            "other": ["Consider evaluation for Gardner syndrome/familial adenomatous polyposis"]
+        }, 
+        "treatment": {
+            "observation": ["Observation with imaging with CT or MRI as indicated and symptom management"]
+        }, 
+        "followup": {
+            "If stable/regression": ["Consider ongoing observation with imaging with CT or MRI as indicated"],
+            "If progression": [
+                "Imaging with CT or MRI every 3-6 months for 2-3 years, then every 6-12 months thereafter",
+                "ultrasound may be considered for selected locations (ie, abdominal wall) for long term follow up (ultrasound should be done by an ultrasonographer experienced in musculoskeletal disease)", 
+                "evaluation for rehabilitation" 
+            ]
+        }
+    },
+    "11": {
+        "workup": {
+            "history and physical": [],
+            "imaging": ["Appropriate imaging of primary site with CT or MRI as clinically indicated"],
+            "pathology": ["Biopsy"],
+            "other": ["Consider evaluation for Gardner syndrome/familial adenomatous polyposis"]
+        }, 
+        "treatment": {
+            "surgical": [
+                "Surgery if resectable"
+            ],
+            "systemic": [
+                "Systemic therapy"
+            ]
+        }, 
+        "followup": [
+            "Imaging with CT or MRI every 3–6 months for 2–3 years, then every 6–12 months thereafter", 
+            "Evaluation for rehabilitation"
+        ]
+    },
+    "12": {
+        "workup": {
+            "history and physical": [],
+            "imaging": ["Appropriate imaging of primary site with CT or MRI as clinically indicated"],
+            "pathology": ["Biopsy"],
+            "other": ["Consider evaluation for Gardner syndrome/familial adenomatous polyposis"]
+        }, 
+        "treatment": {
+            "surgical": [
+                "Surgery if resectable",
+                "Ablation procedures"
+            ],
+            "radiation": [
+                "Definitive radiotherapy"
+            ],
+            "systemic": {
+                "Preferred regimens": [
+                    "Sorafenib", 
+                    "Methotrexate and vinorelbine", 
+                    "Methotrexate and vinblastine", 
+                    "Imatinib", 
+                    "Liposomal doxorubicin"  
+                ]
+            }
+        }, 
+        "followup": [
+            "Imaging with CT or MRI every 3–6 months for 2–3 years, then every 6–12 months thereafter",
+            "Ultrasound may be considered for abdominal wall, for long-term followup.", 
+            "Evaluation for rehabilitation"
+        ]
+    }
+}

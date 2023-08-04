@@ -68,6 +68,20 @@ const types = {
     waldestrom: {
         "1": ["Waldenström Macroglobulinemia", "waldestrom macroglobulinemia"],
         "2": ["Bing Neel Syndrome"]
+    },
+    soft: {
+        "1": ["Extremity/Chest wall/Head & neck Stage IA/IB"],
+        "2": ["Extremity/Chest wall/Head & neck Stage II"],
+        "3": ["Extremity/Chest wall/Head & neck Stage III or select Stage IV (Any T, N1, M0)"],
+        "4": ["Synchronous Stage IV disease Oligometastases with limited tumor bulk that is amenable to local therapy"],
+        "5": ["Synchronous Stage IV disease Disseminated metastases"],
+        "6": ["Metastatic Disease Isolated regional disease or nodes"],
+        "7": ["Retroperitoneal/intra-abdominal Resectable disease"],
+        "8": ["Retroperitoneal/intra-abdominal Unresectable or stage IV disease"],
+        "9": ["Retroperitoneal/intra-abdominal Resectable recurrent disease"],
+        "10": ["Desmoid Tumors (Aggressive Fibromatosis) Anatomic location where progression would not be morbid"],
+        "11": ["Desmoid Tumors (Aggressive Fibromatosis) Intra-abdominal/retroperitoneal"],
+        "12": ["Desmoid Tumors (Aggressive Fibromatosis) Abdominal wall, pelvic, trunk/ extremity, head/neck/ intrathoracic"]
     }
 }
 
