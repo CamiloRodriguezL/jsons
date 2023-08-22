@@ -6,6 +6,8 @@ const cors = require('cors')
 app.use( cors() )
 app.use( express.json() )
 
+// hello
+
 const types = {
     bone: {
         "1": ["low grade and intracompartmental chondrosarcoma"], 
